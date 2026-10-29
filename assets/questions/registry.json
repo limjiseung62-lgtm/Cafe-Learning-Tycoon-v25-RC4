@@ -1,0 +1,28 @@
+[
+  {
+    "packId": "KOR-G4-S2-UNIT2-ORIGINAL-PRACTICE-V1",
+    "title": "4학년 국어 2학기 2단원 · 우리말 우리글 복습",
+    "subject": "국어",
+    "grade": 4,
+    "semester": 2,
+    "unit": "2단원 우리말 우리글",
+    "file": "assets/questions/korean-u2-original.json",
+    "enabledForSelection": false,
+    "defaultForSelection": false,
+    "selectionLabel": "4학년 국어 · 우리말 우리글 복습",
+    "enabledForGrowth": true,
+    "selectionReview": "사용자 일괄 승인 요청 · 110/110 · SHA256 검증"
+  },
+  {
+    "packId": "MATH-G4-S2-U4-QUADRILATERAL-V1",
+    "title": "4학년 수학 2학기 4단원 · 사각형",
+    "subject": "수학",
+    "grade": 4,
+    "semester": 2,
+    "unit": "4단원 사각형",
+    "file": "assets/questions/quadrilateral-g4-s2.json",
+    "enabledForSelection": true,
+    "defaultForSelection": true,
+    "selectionLabel": "4학년 수학 · 사각형"
+  }
+]

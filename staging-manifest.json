@@ -1,0 +1,1845 @@
+{
+  "version": "2.5.0-rc.4",
+  "status": "student-test",
+  "publicDeploymentApproved": false,
+  "testDeploymentApproved": true,
+  "externalDeploymentExecuted": true,
+  "storagePrefix": "cafe-v25-rc4/",
+  "cacheToken": "2.5.0-rc.4-8b85134eaee7",
+  "sourceCandidate": "3e0af60cfc15b74148f880ac186890c8d87ccee4",
+  "files": [
+    {
+      "file": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "AUDIO_LICENSES.md",
+      "bytes": 591,
+      "sha256": "917b3ebf3e4819dbba865da5467a5d4070bca303d87959b6c28df29495467c00"
+    },
+    {
+      "file": "RECOVERY.html",
+      "bytes": 1901,
+      "sha256": "5d72d987c8db537d23e8215922fef655fd7e06726f8ef6e2f53a63e13e4354b9"
+    },
+    {
+      "file": "STUDENT-GUIDE.html",
+      "bytes": 3040,
+      "sha256": "ea60ab4abbeb11c7332cb0b898c584c38deba64b0f6799087b39fff045fda5b4"
+    },
+    {
+      "file": "TEACHER-CHECKLIST.html",
+      "bytes": 2484,
+      "sha256": "76be856f154cf16654f5fa97af20656e831ceb1b7c0409b50aa9b6ad2fb3447e"
+    },
+    {
+      "file": "THIRD_PARTY_NOTICES.md",
+      "bytes": 6935,
+      "sha256": "10495a3e32d70e4381bdaa733ae812e8493dd60e2f311e030304b8eb836a06c9"
+    },
+    {
+      "file": "animationPresentation.js",
+      "bytes": 972,
+      "sha256": "e96b282ce163b9c02dfcf72628cf39cd0dd7988ee9eea94c3f1621f24f914045"
+    },
+    {
+      "file": "arcade-games.css",
+      "bytes": 9078,
+      "sha256": "153c678e0a2e2f2fd2d17c9d7c1047c87c5a79075af9028566a78657dab5b966"
+    },
+    {
+      "file": "arcadeGames.js",
+      "bytes": 4577,
+      "sha256": "c3015a0fe6b773091819f2f6ba7f83c7efb622f8e691058ef93056e70e3fb6a7"
+    },
+    {
+      "file": "arcadeTypes.js",
+      "bytes": 370,
+      "sha256": "a2419201bcd16c89163aa56227db2270c4b1f340a17e9c0e28191b1d35cfc586"
+    },
+    {
+      "file": "arcadeUi.js",
+      "bytes": 15373,
+      "sha256": "a905f01ae2685284bceb814fad476ab60053e1a56759fb5b1a4a60394f4cb1b0"
+    },
+    {
+      "file": "art.js",
+      "bytes": 2731,
+      "sha256": "04b497fe4817bac441a999d2003adb9b9a0ffc16907d534cfd7b5b71dd0c9c94"
+    },
+    {
+      "file": "assetFallback.js",
+      "bytes": 2249,
+      "sha256": "b74b6cec2f08734752c34ef9fcc6c87caa45b789111807f11a80d57128667e4d"
+    },
+    {
+      "file": "assets/art/customer-registry.json",
+      "bytes": 12869,
+      "sha256": "96fa6e927d684735f85e7fd736c6cd4d3a987f2fbdd93c4e6676b04d8b08e7bb"
+    },
+    {
+      "file": "assets/art/long-growth/bread.svg",
+      "bytes": 526,
+      "sha256": "d6df578b9045303c1601c58799ee76cd6551c118af4e5a62857a6a8b9bc407b7"
+    },
+    {
+      "file": "assets/art/long-growth/clock.svg",
+      "bytes": 1041,
+      "sha256": "6327a3006ebbe91e14c66051389c032f0c307693529205afd2bcd735029c63c1"
+    },
+    {
+      "file": "assets/art/long-growth/flower.svg",
+      "bytes": 573,
+      "sha256": "0ef05e8ddb35658efc9a1d5443a520a35ee491a75e01099ce2485ffcd02e7520"
+    },
+    {
+      "file": "assets/art/long-growth/frame.svg",
+      "bytes": 381,
+      "sha256": "5471f01c402dbcd189d74e30528eaf276101290ed9b2840a5f44677c6eabd397"
+    },
+    {
+      "file": "assets/art/long-growth/front-bakery.svg",
+      "bytes": 1059,
+      "sha256": "0398fff389dd7120199a672d6c4f40d0206843606dc6d7922a04aacf209b9f5f"
+    },
+    {
+      "file": "assets/art/long-growth/front-garden.svg",
+      "bytes": 971,
+      "sha256": "19ac4ac26d14aa68d7b9742df98f72eb51366c3388755f2effbb2c60309abc6b"
+    },
+    {
+      "file": "assets/art/long-growth/garden.svg",
+      "bytes": 1649,
+      "sha256": "d5ad74fe5581e4fa3b5e358025ba4c17e6bd0a023b878d8a9295e6de246339c3"
+    },
+    {
+      "file": "assets/art/long-growth/lamp.svg",
+      "bytes": 320,
+      "sha256": "c9302be3a38fdda04797f45e467a5cd14ac23ddd3eefe7ac9368dd4f6cd45aad"
+    },
+    {
+      "file": "assets/art/long-growth/mini-cake.svg",
+      "bytes": 379,
+      "sha256": "dff2fe3d5c57708bca7a8c3ae70bad81025fdd9d4d205eb56ce523443728924b"
+    },
+    {
+      "file": "assets/art/long-growth/mini-flowers.svg",
+      "bytes": 440,
+      "sha256": "a9c2cb77e44e0af13aa8b3c85137374b21bc8379342b8fd2a3e86a591ad2ccaf"
+    },
+    {
+      "file": "assets/art/long-growth/mini-oven.svg",
+      "bytes": 369,
+      "sha256": "0d7a85d22b5bc93f4c17a3e5817940ccefbeb7123fb587c3b1e9f2af117600ca"
+    },
+    {
+      "file": "assets/art/long-growth/showcase.svg",
+      "bytes": 490,
+      "sha256": "cfa7d916d6b5ed285d38dcb1a7f23e22769db521fabf11f42baaaeef285514b6"
+    },
+    {
+      "file": "assets/art/long-growth/spec-artisan.svg",
+      "bytes": 298,
+      "sha256": "5ae997759cfe6d966e450fe021e9cbe88d9860fd1e2d38406cf6b7853166269e"
+    },
+    {
+      "file": "assets/art/long-growth/spec-celebration.svg",
+      "bytes": 383,
+      "sha256": "94005ba4a9338cad3c45a4940e6d2a80a2664a443ef57cccc2234a7ee6fc5cd1"
+    },
+    {
+      "file": "assets/art/long-growth/spec-factory.svg",
+      "bytes": 324,
+      "sha256": "cf527bece39a3d8b91df94ae8325e086cb02d29d304f114b3951aed5002826f1"
+    },
+    {
+      "file": "assets/art/long-growth/spec-flower.svg",
+      "bytes": 409,
+      "sha256": "b230442795c905cde41a1a743d3b9c2d59c9d74a1c1cd10899830b974370f02f"
+    },
+    {
+      "file": "assets/art/long-growth/spec-sanctuary.svg",
+      "bytes": 334,
+      "sha256": "7c797b15948dce3607a190baaa495a3330b9f0f69836776157a3ae68e3e5cf4f"
+    },
+    {
+      "file": "assets/art/long-growth/spec-vip.svg",
+      "bytes": 281,
+      "sha256": "49f122384a6eff07d6b41e1bcb75a692ab9d74b0e1eadc4ab77880977d147ba3"
+    },
+    {
+      "file": "assets/art/long-growth/star.svg",
+      "bytes": 312,
+      "sha256": "f40dbb24c1b75960e0811f53b68cbfb0512b1e79f32e1533dc9999d133f68189"
+    },
+    {
+      "file": "assets/art/manifest.json",
+      "bytes": 3432,
+      "sha256": "e969a398baf9f0f356f68b3451b84150a64c4473e6b43b542ba7f978a12b46f7"
+    },
+    {
+      "file": "assets/art/poses/registry.json",
+      "bytes": 2561,
+      "sha256": "5134bc59f471d438a7830525a0232d02be14a63822226791c36cfedef407ad84"
+    },
+    {
+      "file": "assets/art/special/special-registry.json",
+      "bytes": 5803,
+      "sha256": "ee89da92bed3b1d7b51e8c48d26de699571acc4e5e1e3b170a9116512aa0ae8c"
+    },
+    {
+      "file": "assets/audio/Kenney-CC0.txt",
+      "bytes": 574,
+      "sha256": "f7966c773bbed0eca6a9c75081c44a178b38eae112724dbb5fdfbd4192d118a9"
+    },
+    {
+      "file": "assets/audio/NEEDS_AUDIO.md",
+      "bytes": 336,
+      "sha256": "3f750c8a2fc9ba8207c7cc70b0ac69807695057e70d3bf41a322fb7efbe5bf41"
+    },
+    {
+      "file": "assets/audio/bgm/bgm_cafe.wav",
+      "bytes": 27518444,
+      "sha256": "bb2668c05173600c90b68f6192f7b7316582af18d9a28acc3f7fc98a3c8339ce"
+    },
+    {
+      "file": "assets/audio/sfx/back_001.ogg",
+      "bytes": 6997,
+      "sha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf"
+    },
+    {
+      "file": "assets/audio/sfx/click_001.ogg",
+      "bytes": 4876,
+      "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9"
+    },
+    {
+      "file": "assets/audio/sfx/confirmation_001.ogg",
+      "bytes": 8968,
+      "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a"
+    },
+    {
+      "file": "assets/audio/sfx/confirmation_002.ogg",
+      "bytes": 14169,
+      "sha256": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c"
+    },
+    {
+      "file": "assets/audio/sfx/drop_001.ogg",
+      "bytes": 5859,
+      "sha256": "692ee3a6f1821402ca649ff735bee9591dc4846c8098fc7d6a90fd15fa57c1af"
+    },
+    {
+      "file": "assets/audio/sfx/glass_001.ogg",
+      "bytes": 6103,
+      "sha256": "183eebee20eb0a532b0b85104d139cbf2673eb66d95c3cc733ac9ea98362e7e8"
+    },
+    {
+      "file": "assets/audio/sfx/maximize_001.ogg",
+      "bytes": 12111,
+      "sha256": "fd3e75e1de2f2fda90aceeacaeb0427ac8bddd3b07a6ce2a8f9ba923df3771f9"
+    },
+    {
+      "file": "assets/audio/sfx/minimize_001.ogg",
+      "bytes": 11924,
+      "sha256": "8481912bc7fa5828924a00ef15b6cd613b994956e0817bd3122065c9b2896d2d"
+    },
+    {
+      "file": "assets/audio/sfx/open_001.ogg",
+      "bytes": 9834,
+      "sha256": "a27c6bb0df7da1e6af5dd5937593c98bc58b6e513f42fe6a3254cd6a6949c648"
+    },
+    {
+      "file": "assets/audio/sfx/pluck_001.ogg",
+      "bytes": 6317,
+      "sha256": "be97ec4893a02d6eccfb678daa76c83e34cb2583b834ec2593d2641def739fa4"
+    },
+    {
+      "file": "assets/audio/sfx/select_001.ogg",
+      "bytes": 5468,
+      "sha256": "aec0c31ea934a35936ae0d2ab8fac8123c93aa5647f935853a58dbaf90278b7a"
+    },
+    {
+      "file": "assets/audio/sfx/toggle_001.ogg",
+      "bytes": 7369,
+      "sha256": "ca1d2dde5f0b286abac4f070e23edab8f30927c8a533665cdf2ac6492a415e49"
+    },
+    {
+      "file": "assets/fonts/Jua-OFL.txt",
+      "bytes": 4435,
+      "sha256": "b85cc79141e847ef9371701e0509cb77f0fc33cff3b2ea8044042288925ad791"
+    },
+    {
+      "file": "assets/fonts/Jua-Regular.woff2",
+      "bytes": 368996,
+      "sha256": "cb995145eb03afc3ca5d714471d2183f58d56ed571001321e109170b421abcda"
+    },
+    {
+      "file": "assets/fonts/NanumGothic-Bold.woff2",
+      "bytes": 440012,
+      "sha256": "f1a3a97599e73746b1af08f88bc542c0f6b091818ffa67b31efb5b88d49ebc2e"
+    },
+    {
+      "file": "assets/fonts/NanumGothic-OFL.txt",
+      "bytes": 4630,
+      "sha256": "6bca0c1a8c713fa5e703c5427a273ea736181c558312962569c28b4cb390fee3"
+    },
+    {
+      "file": "assets/fonts/NanumGothic-Regular.woff2",
+      "bytes": 363844,
+      "sha256": "b2b25ce9c9179e0a4c867bd2610e1db5595965345aa1cdb857964ab802c4ee3e"
+    },
+    {
+      "file": "assets/fonts/README.md",
+      "bytes": 1599,
+      "sha256": "6fdda3ed7f10015196da694bf2a4b2a57a2e9fabbba2100134f1605ba572d481"
+    },
+    {
+      "file": "assets/fonts/conversion-validation.json",
+      "bytes": 476,
+      "sha256": "9e91508e63577e399dd6b715a458c7500df25f92c2ef689a80e2cfef979f0a82"
+    },
+    {
+      "file": "assets/fonts/display-texts.json",
+      "bytes": 801,
+      "sha256": "f2f578b59383eb103d9ea54015326dfcf7af16aa03ddbb20fd4fa8b08d83e627"
+    },
+    {
+      "file": "assets/fonts/glyph-coverage.json",
+      "bytes": 207,
+      "sha256": "f53689d626eb3a88338b6ae9600ce0293e007dfc82e3e51ce86d1d142159cfd9"
+    },
+    {
+      "file": "assets/questions/korean-u2-original.json",
+      "bytes": 202816,
+      "sha256": "b7924cdb4c63c254c7955c7157dbbd0d9e5c055e923f945ef950aa4b69739625"
+    },
+    {
+      "file": "assets/questions/quadrilateral-g4-s2.json",
+      "bytes": 1134424,
+      "sha256": "db00e1ff3f4cd1af83589cebdaa41987038efb36414ed14f8e9633e0145f3c2c"
+    },
+    {
+      "file": "assets/questions/registry.json",
+      "bytes": 938,
+      "sha256": "fc5edf09e8365077173cecb6b5c61e2be0c7c24c817ac413e975abe63f667d19"
+    },
+    {
+      "file": "assets/web/arcade-games/supplies.webp",
+      "bytes": 318740,
+      "sha256": "05e38a814570cd2feca8e5e86044de1b11ee57cfa608ef19cac50e26ced407c9"
+    },
+    {
+      "file": "assets/web/art/characters.webp",
+      "bytes": 152618,
+      "sha256": "4902caeadf409f7884c3c1efa2cc5eef9fe42d5fbfe4474b653358d282ebcc5d"
+    },
+    {
+      "file": "assets/web/art/customers/customer_athlete_sit_left.webp",
+      "bytes": 97400,
+      "sha256": "d92a05f0a26ff4aa8f5a19c232860b8d8e2036687cf7590e9461f24a97749d0d"
+    },
+    {
+      "file": "assets/web/art/customers/customer_athlete_sit_right.webp",
+      "bytes": 97444,
+      "sha256": "6be6c7414c3457321f9ba7ee09620374d087d1cc07b67d98c2300fa1a52cc963"
+    },
+    {
+      "file": "assets/web/art/customers/customer_athlete_walk.webp",
+      "bytes": 97384,
+      "sha256": "fa0d95c3d05a390c3face235f49f95fb097953748fbe662902b6650e0dee9dd2"
+    },
+    {
+      "file": "assets/web/art/customers/customer_bookworm_sit_left.webp",
+      "bytes": 71350,
+      "sha256": "f4fc2089da9acfb517a7143429e467cfd4be529bf95725cd210f692ce37a7146"
+    },
+    {
+      "file": "assets/web/art/customers/customer_bookworm_sit_right.webp",
+      "bytes": 70516,
+      "sha256": "3c3beb76d6be89ccf063cdf2de63f62afe587dc448a4ef457718407e9b322fbe"
+    },
+    {
+      "file": "assets/web/art/customers/customer_bookworm_walk.webp",
+      "bytes": 68248,
+      "sha256": "010cffd11c793b5a89bd5070dca5f2b0b1098e851f5ec3d1432e8089ebf613a0"
+    },
+    {
+      "file": "assets/web/art/customers/customer_child_sit_left.webp",
+      "bytes": 82038,
+      "sha256": "9461aa9a048897995a0130e1cfddf79424ab86e4e593c3423745867cd5bd1f7e"
+    },
+    {
+      "file": "assets/web/art/customers/customer_child_sit_right.webp",
+      "bytes": 85264,
+      "sha256": "0771756903f5cf60bd7a21d046720a598444bf36a06863e5d46755d0b2b927b2"
+    },
+    {
+      "file": "assets/web/art/customers/customer_child_walk.webp",
+      "bytes": 78720,
+      "sha256": "d59d5487582616de0dbdc897c93bcd5b7f07adab1134466ebd736dda40cd5fcc"
+    },
+    {
+      "file": "assets/web/art/customers/customer_fashion_sit_left.webp",
+      "bytes": 82124,
+      "sha256": "f24005c898f8323e39aa9e9792193636505394ba38a6be94239135758219fda8"
+    },
+    {
+      "file": "assets/web/art/customers/customer_fashion_sit_right.webp",
+      "bytes": 79190,
+      "sha256": "7fb4fe70049191e8e0f4e099edb1021f0020613a48cf16e2b6008507193eca59"
+    },
+    {
+      "file": "assets/web/art/customers/customer_fashion_walk.webp",
+      "bytes": 79328,
+      "sha256": "863f5d56b4fb68b76b119a3202d51ccc2c2881b963927ccb156f34b4004d79f4"
+    },
+    {
+      "file": "assets/web/art/customers/customer_gentleman_sit_left.webp",
+      "bytes": 79784,
+      "sha256": "ca1dc97846ddafd12dae0832495b46d08f8eb3a186241ccd673a18ee27e258c2"
+    },
+    {
+      "file": "assets/web/art/customers/customer_gentleman_sit_right.webp",
+      "bytes": 78664,
+      "sha256": "8606fe5d6c740a79f5ca01534616a3e194903fec2ec28d261cd567a1af5153bc"
+    },
+    {
+      "file": "assets/web/art/customers/customer_gentleman_walk.webp",
+      "bytes": 80478,
+      "sha256": "13d46dfa14d63f30f50c958987e51859484ada09c1ce5976d0cd0d59db4db3ae"
+    },
+    {
+      "file": "assets/web/art/customers/customer_office_sit_left.webp",
+      "bytes": 67094,
+      "sha256": "dcbb0dd09eb3618e5a8ca0cfd1fe7f7cea24d178f55b16e7f8fd0811149b3b29"
+    },
+    {
+      "file": "assets/web/art/customers/customer_office_sit_right.webp",
+      "bytes": 64490,
+      "sha256": "8674383955400ee4d76c83fbff43d6e15f8a269993005228163d275c0da37e42"
+    },
+    {
+      "file": "assets/web/art/customers/customer_office_walk.webp",
+      "bytes": 68128,
+      "sha256": "15e4fde7471d46d090581d47a02ade87fbd5d3fcf8faa185b5a5ed33be32793d"
+    },
+    {
+      "file": "assets/web/art/customers/customer_painter_sit_left.webp",
+      "bytes": 96728,
+      "sha256": "31e292bff7b0d37b5fd385a3552ff6c0e5979e905ad8147bdf55250ff3c4b4c4"
+    },
+    {
+      "file": "assets/web/art/customers/customer_painter_sit_right.webp",
+      "bytes": 96964,
+      "sha256": "53d74e9dc7d4a9e7aedafd437f1472b2ee63373fdcd24a878eba9b868c71bf07"
+    },
+    {
+      "file": "assets/web/art/customers/customer_painter_walk.webp",
+      "bytes": 92108,
+      "sha256": "5c815dffc6e398636fcbcef7a6985c5d3b85487f653f4d5b74b5e93963edfa98"
+    },
+    {
+      "file": "assets/web/art/customers/customer_traveler_sit_left.webp",
+      "bytes": 86384,
+      "sha256": "15df7cef7f3b637c8567140da2eb9eb050bba3f9821e26df1e544178644dcb52"
+    },
+    {
+      "file": "assets/web/art/customers/customer_traveler_sit_right.webp",
+      "bytes": 86996,
+      "sha256": "595622058e1f88e18553121f71872660ab70d805b1767464eda04bd91d18a6a1"
+    },
+    {
+      "file": "assets/web/art/customers/customer_traveler_walk.webp",
+      "bytes": 82460,
+      "sha256": "a9f7e7ea64608419c335dea6f998514f2f0c348c333b9a60698c4164897d8bbd"
+    },
+    {
+      "file": "assets/web/art/food.webp",
+      "bytes": 178038,
+      "sha256": "6f2f59bdca49aaa7208ba33b9f6220467106f74dba9865fd9573ada9473bf399"
+    },
+    {
+      "file": "assets/web/art/hospitality/critic.webp",
+      "bytes": 119714,
+      "sha256": "7c88fb4e916f50f487a77be50df342b002cdefb1cf1b5aadf513143369903988"
+    },
+    {
+      "file": "assets/web/art/hospitality/florist.webp",
+      "bytes": 145086,
+      "sha256": "e613859da66c483fe195f4e1d1f069e2c015a2a89a1a1892a93e493ac4862873"
+    },
+    {
+      "file": "assets/web/art/hospitality/grandma.webp",
+      "bytes": 149450,
+      "sha256": "47480441a7a98ac5f07862cf8f4176f076eefdc09a7ab513c572691f805bef7b"
+    },
+    {
+      "file": "assets/web/art/hospitality/influencer.webp",
+      "bytes": 141386,
+      "sha256": "0385662cce3113919888f573d71fe3f694f5431abd3c90c37a8147e4410de31f"
+    },
+    {
+      "file": "assets/web/art/hospitality/judge.webp",
+      "bytes": 144036,
+      "sha256": "e448bba18f65082ea9a6fef83a6a8d443c7248c66b163218bf36dcaa3c5e4b90"
+    },
+    {
+      "file": "assets/web/art/hospitality/lucky.webp",
+      "bytes": 138522,
+      "sha256": "b6cf944ca85b1f9b0c93f52e7b3a1302e35cc55897d9c66ce78cbb6db8675987"
+    },
+    {
+      "file": "assets/web/art/hospitality/patissier.webp",
+      "bytes": 123618,
+      "sha256": "6771b294c49090d1ca2aee328e4f2d845191021f1399c6ff1158590d68e994af"
+    },
+    {
+      "file": "assets/web/art/hospitality/repair.webp",
+      "bytes": 137582,
+      "sha256": "bf8116a1c9bd17dffad87f95d70150fa794f3121e9a8beb9699a09da58b9de15"
+    },
+    {
+      "file": "assets/web/art/hospitality/signature-plate.webp",
+      "bytes": 88428,
+      "sha256": "71972b59962deaff757ddf8ce48c89094786c061e968bf46a4cb99a35135d89d"
+    },
+    {
+      "file": "assets/web/art/hospitality/supplier.webp",
+      "bytes": 137092,
+      "sha256": "f2670fd096d060f26472cb2610d67e5f06f5ba9ce0f7b5e84dd2ad7d7009253a"
+    },
+    {
+      "file": "assets/web/art/hospitality/tip.webp",
+      "bytes": 175766,
+      "sha256": "4e3315a3fa04ada7b06d8aabb24a0baa2997989f26fb0dee73e3ee332b4c8e1e"
+    },
+    {
+      "file": "assets/web/art/hospitality/traveler.webp",
+      "bytes": 170756,
+      "sha256": "d59df9e433fe5d71b5aa561431764e528f5a38f5103db7b9af14cc1efd0cb9bf"
+    },
+    {
+      "file": "assets/web/art/motion-v151/bookworm-actions.webp",
+      "bytes": 123318,
+      "sha256": "b866c298e211c00d208801d201dad6171d8704c26a31cb617b1a1c9c6a7399de"
+    },
+    {
+      "file": "assets/web/art/motion-v151/owner-actions.webp",
+      "bytes": 87142,
+      "sha256": "27b68689d079247b61b12fd48795ba79398f9470ea2bea95396c5c77d2cdd315"
+    },
+    {
+      "file": "assets/web/art/motion-v151/spring-actions.webp",
+      "bytes": 102040,
+      "sha256": "8971e7b449fd1a3ede9310ccf265864fa29bfa0c2e6641fae3feb47ce49e572d"
+    },
+    {
+      "file": "assets/web/art/motion-v151/student-actions-v2.webp",
+      "bytes": 117520,
+      "sha256": "d51fb854c67e5776950c1e1fd4b56fdb6f340cfc03d88ce7f6f80f818db2e762"
+    },
+    {
+      "file": "assets/web/art/motion-v152/athlete.webp",
+      "bytes": 195476,
+      "sha256": "af3527d1ff1dd8b844d306cd81e7efc2be9dcbac7c64445ac9d8ab3910d9a0fc"
+    },
+    {
+      "file": "assets/web/art/motion-v152/bookworm-actions-eat.webp",
+      "bytes": 97738,
+      "sha256": "8a7a843bc0f7ffbfd81c5f10153a88efc47b33e9f17353ea34a2d2c86a37a0b6"
+    },
+    {
+      "file": "assets/web/art/motion-v152/bookworm.webp",
+      "bytes": 123324,
+      "sha256": "b468de3e0dccc65a5d4d9a769cd53a10020a74a7bf03516549b66ec8374ede18"
+    },
+    {
+      "file": "assets/web/art/motion-v152/child.webp",
+      "bytes": 164572,
+      "sha256": "a670de64e1fa0a608e1e317ae5c758127889b7256d0b5e64944fa33aa8dbab4f"
+    },
+    {
+      "file": "assets/web/art/motion-v152/fashion.webp",
+      "bytes": 153302,
+      "sha256": "1513f74ca106867f10180f5bce96bb6d0d12e275a867691de46ac500b1e3d24c"
+    },
+    {
+      "file": "assets/web/art/motion-v152/gentleman.webp",
+      "bytes": 144916,
+      "sha256": "04dc08d00f0fec095ead26de414445bcad10e3da0aaff3db0fdf3150e5db5f2e"
+    },
+    {
+      "file": "assets/web/art/motion-v152/grandma.webp",
+      "bytes": 147038,
+      "sha256": "4636e12921e0680dd1e3e16e1e8bbab12c95ea10dd9648096f6f430c2915c576"
+    },
+    {
+      "file": "assets/web/art/motion-v152/office.webp",
+      "bytes": 135040,
+      "sha256": "c292a50d6ba274490812a6dfad6081461f692d567a6191cd420e7fccfa9013c2"
+    },
+    {
+      "file": "assets/web/art/motion-v152/painter.webp",
+      "bytes": 177682,
+      "sha256": "0f78128a3491fd097b3dbd05ec3ca91ff387afd344242c39f6e6467c9d1bca33"
+    },
+    {
+      "file": "assets/web/art/motion-v152/reader.webp",
+      "bytes": 124982,
+      "sha256": "be6e404185b1418d6044b739accf5ac7e72d2fc7c01cac9116cd29c0bf0587d0"
+    },
+    {
+      "file": "assets/web/art/motion-v152/special-gourmand.webp",
+      "bytes": 173154,
+      "sha256": "37ad1fa268000620320332ad359cac35b9c3895c23d6754e4b442dd24bcc47b3"
+    },
+    {
+      "file": "assets/web/art/motion-v152/special-hurried.webp",
+      "bytes": 159490,
+      "sha256": "c5e90664b795f4e13c5804be2baf39a20072c58dd55329139b06dd6210b350f2"
+    },
+    {
+      "file": "assets/web/art/motion-v152/special-regular.webp",
+      "bytes": 161974,
+      "sha256": "82546bdd10d1445b2952d6f668f2e36c70042d88142250c25e123dda162f3e15"
+    },
+    {
+      "file": "assets/web/art/motion-v152/special-spender.webp",
+      "bytes": 122932,
+      "sha256": "626ceb7e0b4f42597e1d196e7e2452f07827bbda5848a24807550f666223cce8"
+    },
+    {
+      "file": "assets/web/art/motion-v152/special-vip.webp",
+      "bytes": 152274,
+      "sha256": "97acc9e92819e291b79d7fd89990e6a7cce80cc679b698017b02fb67df1a2f1a"
+    },
+    {
+      "file": "assets/web/art/motion-v152/staff-2.webp",
+      "bytes": 97460,
+      "sha256": "86de42c3020c35a6706968735fd95b4e714a8dec36ded9f3a081dda56a1d94cb"
+    },
+    {
+      "file": "assets/web/art/motion-v152/staff-3.webp",
+      "bytes": 111256,
+      "sha256": "58bf58a4c284fafe8df6f8cc00a37c202b1b6e5de0790dd5de3b77f96b460b58"
+    },
+    {
+      "file": "assets/web/art/motion-v152/staff-4.webp",
+      "bytes": 102050,
+      "sha256": "08174c0753e9668fbb3ece01f2b15350384d28ed533fd17d75e38152590baf71"
+    },
+    {
+      "file": "assets/web/art/motion-v152/staff-5.webp",
+      "bytes": 67460,
+      "sha256": "da3acf8b8a61cfd059315d1b409d1e6a52090353c538952ea2f560178a5c4181"
+    },
+    {
+      "file": "assets/web/art/motion-v152/student.webp",
+      "bytes": 131570,
+      "sha256": "227f4191c169c3b3333406be0cdea3be4b966b95098b5e0f35f73d1ef9a70492"
+    },
+    {
+      "file": "assets/web/art/motion-v152/traveler.webp",
+      "bytes": 165120,
+      "sha256": "f0abdff7790f77290837fd10dc404b8832b52b188369c60208726ecdc647131b"
+    },
+    {
+      "file": "assets/web/art/motion-v152/walker.webp",
+      "bytes": 162590,
+      "sha256": "1873060c7b3c4149e453fd482b80b8a5e244dc3fe06733a03b2fbf6de87dd0e6"
+    },
+    {
+      "file": "assets/web/art/poses/customer_grandma_sit_left.webp",
+      "bytes": 78854,
+      "sha256": "a471d7036db58ac86074d4a6357cf1f4bbfdfdad8148a7f694216b998d5cacd2"
+    },
+    {
+      "file": "assets/web/art/poses/customer_grandma_sit_right.webp",
+      "bytes": 82188,
+      "sha256": "5a76dcd1d7483f97d5f3d4c4b39a59eec1c71158b140c26992b1c4645e22ec5b"
+    },
+    {
+      "file": "assets/web/art/poses/customer_reader_sit_left.webp",
+      "bytes": 65252,
+      "sha256": "e44ba89ca231ecfb136a1fc4dd95d2e4897dc2495eb704bb9fdcab0bc453582d"
+    },
+    {
+      "file": "assets/web/art/poses/customer_reader_sit_right.webp",
+      "bytes": 66350,
+      "sha256": "5978261a7956f47d10e8ea4b8694f639ab7070331994a997e8bcf82dd1b3c4af"
+    },
+    {
+      "file": "assets/web/art/poses/customer_student_sit_left.webp",
+      "bytes": 63966,
+      "sha256": "0aa5bb2cddf2fbb0e6ded59b90146397c07b1ad0d5cdde75bacd76d3bdfd3cc7"
+    },
+    {
+      "file": "assets/web/art/poses/customer_student_sit_right.webp",
+      "bytes": 62882,
+      "sha256": "243db1354f31a2d5d40362457cbadb56d90f1e014ebfbe5775bcc08412d896f8"
+    },
+    {
+      "file": "assets/web/art/poses/customer_walker_sit_left.webp",
+      "bytes": 67412,
+      "sha256": "a8b81c4c92387c23350b956d0ae83b330addb1f1d540a9d5ed95fafb97cfb343"
+    },
+    {
+      "file": "assets/web/art/poses/customer_walker_sit_right.webp",
+      "bytes": 70960,
+      "sha256": "fcc48b55720adcecc040c6257f4f1182417faa3303f1797a2a68e4b69c2f9062"
+    },
+    {
+      "file": "assets/web/art/room-10.webp",
+      "bytes": 568294,
+      "sha256": "9af40a7f8f2f76dad2869a9f6d8bdb6b4f4b330050f21e7b7a6e2ae9dba34c22"
+    },
+    {
+      "file": "assets/web/art/room-2.webp",
+      "bytes": 553052,
+      "sha256": "e1e0a8c944f80f0b4f91e7e20b5cdf1af14f16b943fb62b459a4150416fac6d6"
+    },
+    {
+      "file": "assets/web/art/room-3.webp",
+      "bytes": 541792,
+      "sha256": "ee8f13025a94e87f92f9449a8c5a8ff0c9237d62c44d59d052ffe82bb62c97a2"
+    },
+    {
+      "file": "assets/web/art/room-4.webp",
+      "bytes": 550584,
+      "sha256": "ddef65d0d1301ae8fb640a3306ab602eb443f689e6544b94b3290ed69f40d439"
+    },
+    {
+      "file": "assets/web/art/room-5.webp",
+      "bytes": 556910,
+      "sha256": "6883762b493d96614d662548b2cf64c8900c245e5fcb26c9fb4591d4bb5695ea"
+    },
+    {
+      "file": "assets/web/art/room-6.webp",
+      "bytes": 562032,
+      "sha256": "f0e14ebd4d5827e8e66f819aba7018720bd9bdeb1b63030b315fb0e2c8151e6a"
+    },
+    {
+      "file": "assets/web/art/room-7.webp",
+      "bytes": 634002,
+      "sha256": "1e12974b6397c4c3c5cc24e9b12994ff3ed4152419a6df6209ff378648412da1"
+    },
+    {
+      "file": "assets/web/art/room-8.webp",
+      "bytes": 548382,
+      "sha256": "782022eb28e0fd58f69a635d0296c524250b0be1cb3124f562fb4a222d45f2ca"
+    },
+    {
+      "file": "assets/web/art/room-9.webp",
+      "bytes": 610810,
+      "sha256": "6c727717d6722013ea639a657d90a58d4a17efa48dca67d30c779918796b58fb"
+    },
+    {
+      "file": "assets/web/art/room.webp",
+      "bytes": 564544,
+      "sha256": "5e6c5f368fa86380d0846780b0127c702a0545caf6ba1a379fc0950fd0109f6b"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_gourmand_sit_left.webp",
+      "bytes": 48280,
+      "sha256": "44e341945a545ebef8a9073175f57a3a486bde4877d38fcb87a32d170a452f3a"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_gourmand_sit_right.webp",
+      "bytes": 49552,
+      "sha256": "14741309135b56aca134b65c936e509800f9a1dd53aae3c8305a57c2f438f674"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_gourmand_walk.webp",
+      "bytes": 51994,
+      "sha256": "d5f55fd986384017a6ceb7e1eb09808ac93c8c8f4e85bbc212ca0f25e7a9f646"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_hurried_sit_left.webp",
+      "bytes": 41828,
+      "sha256": "edd6fe6ddcbee83081d63b77f2ad5312cc856c605ea2f9b6d69f75df06c5769e"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_hurried_sit_right.webp",
+      "bytes": 42686,
+      "sha256": "0426cb104b2221ebfc45726b61cb64e0b351f0dab60857ce6c53f0ce5e9a9df0"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_hurried_walk.webp",
+      "bytes": 47166,
+      "sha256": "333f37b2ac12ed2524cf19bef5a34dacbecc103bc731b87a1c9e5b60874c1515"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_regular_sit_left.webp",
+      "bytes": 41518,
+      "sha256": "227c88b2c8a2dace5ae8680167b1f2c50e42c3d777ee2b3dd7f26f07d34c927c"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_regular_sit_right.webp",
+      "bytes": 40626,
+      "sha256": "257f0c604c5bc0bf8ab8b690c92712b08e7e4a6a0c8998e31f1ad71e684fcef4"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_regular_walk.webp",
+      "bytes": 46724,
+      "sha256": "362d2baffd4e82d183bec289b8eb6f0793338f0a1742f02353bde47a8c62c6e6"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_spender_sit_left.webp",
+      "bytes": 36418,
+      "sha256": "51bf8ae9bd264897bdcd988c719acff063926c212de1b7f0d8e5a7b89d0218f4"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_spender_sit_right.webp",
+      "bytes": 35936,
+      "sha256": "f71d9ee92d3bae87c1feffd983454ce54f448e8c8664bac5686b77a3b2b54b21"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_spender_walk.webp",
+      "bytes": 42808,
+      "sha256": "ae576bbf3313abadff52372681d2b328e7a8862214a89557d40a0468379fb673"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_vip_sit_left.webp",
+      "bytes": 47332,
+      "sha256": "735966ca15fe464f18b89b261221fcc94175f4d6dd734d1dc22e2a65fd2e7574"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_vip_sit_right.webp",
+      "bytes": 46230,
+      "sha256": "d17f66b6fe65abfbb17e2fa477a255e6c4af7102ac46c0a5f4839149a33b347f"
+    },
+    {
+      "file": "assets/web/art/special/customer_special_vip_walk.webp",
+      "bytes": 50818,
+      "sha256": "734a65905fd23a88ff33e2a7c9ebe8bc78e098c13edd9f83d94f03d5a1ad79f8"
+    },
+    {
+      "file": "assets/web/branches/bakery-preview.webp",
+      "bytes": 14100,
+      "sha256": "2bc3f6b2e7abf1137eb06af09d719ecb6213c7a771256dbf91d617df3dfe9242"
+    },
+    {
+      "file": "assets/web/branches/bakery.webp",
+      "bytes": 141914,
+      "sha256": "eeae16f3c86b15d93943d0629f6574214d7580c60626236f47fa082ed4117a31"
+    },
+    {
+      "file": "assets/web/branches/dessert-preview.webp",
+      "bytes": 14716,
+      "sha256": "92a6b2dab6228fc578d3d24b4cd0b11ca38ac155464bb1870daec3eff48a244c"
+    },
+    {
+      "file": "assets/web/branches/dessert.webp",
+      "bytes": 169910,
+      "sha256": "ce96a308b669bb4e0f95d68c1be81515bb9cfb17734fcdb9098545a8774097d3"
+    },
+    {
+      "file": "assets/web/branches/garden-preview.webp",
+      "bytes": 15288,
+      "sha256": "677294cd597a14df8fbe4762738e47179ea3232c8dfa2c1b682819e601e0f667"
+    },
+    {
+      "file": "assets/web/branches/garden.webp",
+      "bytes": 164956,
+      "sha256": "afe9a2514dba5bebbd8b512735d12f870900a3c7b88cb8a4aa2c400d59e6967e"
+    },
+    {
+      "file": "assets/web/cake-rush/ingredients.webp",
+      "bytes": 330692,
+      "sha256": "17105bc52da4bb35c221e9c5e016345f9a91181b463b82af5915b9796bf784be"
+    },
+    {
+      "file": "assets/web/craft-games/supplies.webp",
+      "bytes": 345136,
+      "sha256": "9740e7cfad63271bab7e74e802f90232e07a713db1221020703c70ca6f8fb8a2"
+    },
+    {
+      "file": "assets/web/free-layout/furniture-atlas.webp",
+      "bytes": 301712,
+      "sha256": "3c2f4662b1c141e51b67c9467b9516b1c749782ad3db85c501d51a5f69b657db"
+    },
+    {
+      "file": "assets/web/lakeside/district-padded.webp",
+      "bytes": 378538,
+      "sha256": "37d26f924cf0bc9fa6c9b9f4915a01e892f53f6f08170ed2bbc858b8ea26ad1a"
+    },
+    {
+      "file": "assets/web/long-growth/bakery.webp",
+      "bytes": 208970,
+      "sha256": "cd1c114b9ee9884286252da22dde04bb6eca4144698f0c32b9fe9d13e01b0a9b"
+    },
+    {
+      "file": "assets/web/mini-games/supplies.webp",
+      "bytes": 315002,
+      "sha256": "fa25b8aa3973f5c9b14539260e70dce6a3984636d88a672025600fc5fb092b8b"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-10-portrait.webp",
+      "bytes": 15820,
+      "sha256": "0ff0b2bfb43fa2a1647be754182a9023101687bd5199da4d69be5dc66ab5dbcc"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-10.webp",
+      "bytes": 98918,
+      "sha256": "f70a97803793238a5555ba3c6d6a71515b10bedd7fec15f2364d9f9dd1f75891"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-11-portrait.webp",
+      "bytes": 17930,
+      "sha256": "1b5f079eeb6fba971caa9d4c7e0a260849ed39df9ebe71e64b1e22689985a581"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-11.webp",
+      "bytes": 112168,
+      "sha256": "42924df182f0f22ac958c5cd420084e0fa7dd1afc2c96ba237c0cff8eddec6b7"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-12-portrait.webp",
+      "bytes": 23902,
+      "sha256": "74d85c0eafe08b98d89bb7c323c47ff60d6597ae8340de1c03d1cdd4ee6077a4"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-12.webp",
+      "bytes": 142002,
+      "sha256": "ade4949912388c877fa264dbb8450ac11f750b4db8126d55d3d7c2cf2545c405"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-6-portrait.webp",
+      "bytes": 19680,
+      "sha256": "c7e6c5380dea9c717366def8f55868f00e53db9a2f81b4b1cf1c6785beb1e6c2"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-6.webp",
+      "bytes": 130666,
+      "sha256": "92c818d23eabcd31175d64c4fd0a3395f605532a5c82ea81ef56beb9a538f383"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-7-portrait.webp",
+      "bytes": 14868,
+      "sha256": "0f485d83e64883973603a5b3cafe6f1b2cfee80a97f50481a7f392bfebd423ba"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-7.webp",
+      "bytes": 97488,
+      "sha256": "cb67df5dd658ce6b8e5ad774364c5d64e117775399478395bb077a2af01184ce"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-8-portrait.webp",
+      "bytes": 17410,
+      "sha256": "7631aa62406ed90b84dd611e93995f83e63baa10b33fe2ebddfd2f08d83abc73"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-8.webp",
+      "bytes": 108346,
+      "sha256": "d3309b63fd036e8f20175c56b24f2b0be59295e5cd299baf6c6efb1494d8e9ab"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-9-portrait.webp",
+      "bytes": 16616,
+      "sha256": "590c5fc1fd09e89428fd7efe49cf0036b1a4bbfdf1254ca331f288a46acc5de1"
+    },
+    {
+      "file": "assets/web/recruit-staff/staff-9.webp",
+      "bytes": 107222,
+      "sha256": "b072b3eed9ffcc68112ebe094cf3b8831353128cf334a7bfc348d1577ee96976"
+    },
+    {
+      "file": "assets/web/specializations/artisan.webp",
+      "bytes": 154384,
+      "sha256": "c3b371c327b350e56f9f04514b9546eaa923737b28361040c111444384067fd7"
+    },
+    {
+      "file": "assets/web/specializations/celebration.webp",
+      "bytes": 162266,
+      "sha256": "47bb51e686481b00e927eac44fee3b89f991f9b71dabca3649b210e44612c123"
+    },
+    {
+      "file": "assets/web/specializations/factory.webp",
+      "bytes": 151254,
+      "sha256": "19aa22ac40228f2c8a5943bd22bf30d884337990eefeaa8d007f06aae02fcf87"
+    },
+    {
+      "file": "assets/web/specializations/flower.webp",
+      "bytes": 219350,
+      "sha256": "54fd0d4eddea4bd0c424990522c943b97c1d9e72c50d98f382b39cecb922d8bd"
+    },
+    {
+      "file": "assets/web/specializations/sanctuary.webp",
+      "bytes": 173312,
+      "sha256": "ba90a42f43d9cb714e9743dbebef94006bc7da061f0775a66834b005f75646cf"
+    },
+    {
+      "file": "assets/web/specializations/vip.webp",
+      "bytes": 183782,
+      "sha256": "29925e6a57a881b6e0fd91093eaeb1ce3445ae0e50fb15192555cb1b9f5e921d"
+    },
+    {
+      "file": "assets/web/theme-furniture/bakery.webp",
+      "bytes": 320894,
+      "sha256": "e9e81c893ad68940c0b6220ea092928d57c5503702a265e484f6afde2235af94"
+    },
+    {
+      "file": "assets/web/theme-furniture/dessert.webp",
+      "bytes": 460166,
+      "sha256": "16d8a1fa139b2d4f7b241ceab0ac2c6019ef56a2289044254f75753ff8cf760e"
+    },
+    {
+      "file": "assets/web/theme-furniture/garden.webp",
+      "bytes": 492478,
+      "sha256": "3f92e1f6a03bb512282e11dbbc1cbad42419ade5b1c84055111fd1aadf999717"
+    },
+    {
+      "file": "assets/web/village-v2/buildings.webp",
+      "bytes": 489604,
+      "sha256": "28a0dc050bfd04beb09ee03234e188671063518eafdc3003d1316a0ee55ceeba"
+    },
+    {
+      "file": "assets/web/village-v2/grass.webp",
+      "bytes": 295184,
+      "sha256": "8d0e283c903926b611170ffce221b5f2465b349b119e864d739562b825891476"
+    },
+    {
+      "file": "assets/web/village-v2/props.webp",
+      "bytes": 537656,
+      "sha256": "8b0d321d764ba08dacffbd624db4ac37a574a9a710539f1487fb7aecff7286fe"
+    },
+    {
+      "file": "assets/web/village-v2/stone.webp",
+      "bytes": 282468,
+      "sha256": "aa962247b5d75091553c67fe4622d1b24a7f7a18cc3086321701a99b1e062f64"
+    },
+    {
+      "file": "assets/web/village-v2/water-soft.webp",
+      "bytes": 173114,
+      "sha256": "1174d4185c8821fa657bac20f4c1386ccb7a9fca5c18ddf85cf2663bc4bbd1a2"
+    },
+    {
+      "file": "assets/web/village-v20/lake-underlay.webp",
+      "bytes": 561722,
+      "sha256": "04d757e94e883bd85ab782dce16602fcadb4c640bc857b278ee876d400a06ff2"
+    },
+    {
+      "file": "assets/web/village-v20/town-underlay.webp",
+      "bytes": 486276,
+      "sha256": "17d900ab1be70cdfef25c2d55b84a5af1ab29d409a753b7deb0e26a03595735e"
+    },
+    {
+      "file": "assets/web/village-v2c/market.webp",
+      "bytes": 131666,
+      "sha256": "8e8972e1863624b195be304880e1c7a8a8cbdb343660801f3e12bd064cb88d8c"
+    },
+    {
+      "file": "assets/web/village-v2c/workshop.webp",
+      "bytes": 152282,
+      "sha256": "33aeca37eb8ee46df54382297ea6731b05e83f477762d6839a73e5e7a78aa289"
+    },
+    {
+      "file": "assets/web/village/buildings.webp",
+      "bytes": 414258,
+      "sha256": "bd8e510e0df3524a4038d50fd1ab0324c7ef029a8b811adbaadea60527931c0e"
+    },
+    {
+      "file": "assets/web/village/development.webp",
+      "bytes": 560438,
+      "sha256": "ad6cff435e47cea963dd2761d040ff1347046a121390b6d8b8cbbff889af8b9a"
+    },
+    {
+      "file": "audioManager.js",
+      "bytes": 6607,
+      "sha256": "faa632d4768e239c06416de87cc77f2a045de6d80f10ba08bd2121ebc2d8fe77"
+    },
+    {
+      "file": "audioRegistry.js",
+      "bytes": 1307,
+      "sha256": "37fb92d1f2a4d11a75fe3918ef9f70f6b07bb9cdcc651187cbfcb0ff30e60fb0"
+    },
+    {
+      "file": "cafeEvents.js",
+      "bytes": 14823,
+      "sha256": "4765db59606e2ffd4034e897e451f6e5da7307a31cb7961be50bd93281972692"
+    },
+    {
+      "file": "cafeLayout.js",
+      "bytes": 6287,
+      "sha256": "211958d8c6027e1dae70a62140fa342ececb2077210bfb41d04d71ff4a5f9bf8"
+    },
+    {
+      "file": "cafePicker.js",
+      "bytes": 4159,
+      "sha256": "89b2c3d6d8ea695d6fb85eab4928cd5bc801ef9992ffacb612f9695b9c1c4d23"
+    },
+    {
+      "file": "cafePortfolio.js",
+      "bytes": 6698,
+      "sha256": "dd826fcad0f147d7f5ce685dcab617a3779f87f19312c21edf3c33b6513a76f2"
+    },
+    {
+      "file": "cafeResults.js",
+      "bytes": 16093,
+      "sha256": "fde7b8ca0bf239133e8217a55271623aafd3ed2111df1fb95a9fdf89d67406eb"
+    },
+    {
+      "file": "cafeRun.js",
+      "bytes": 6350,
+      "sha256": "0b79db839b9aae6c6e9cc8ea678ef8c3a371dfab7c6f52405ab2c6bbbde20db8"
+    },
+    {
+      "file": "cafeRunUi.js",
+      "bytes": 7076,
+      "sha256": "9c9adbef761c4678011849418731a0c51d43c09fb148e3322beb4a1011c04f86"
+    },
+    {
+      "file": "cafeShowcase.js",
+      "bytes": 7912,
+      "sha256": "96515ba5257525aa59f1fd3f54d615220ceaf25a5a9c50abf6a9dd678808326c"
+    },
+    {
+      "file": "cake-rush.css",
+      "bytes": 7882,
+      "sha256": "33c3625e34a9cf92defc070be5d082ca36cf34ff7669ff08e3a79fa018980595"
+    },
+    {
+      "file": "cakeRush.js",
+      "bytes": 8765,
+      "sha256": "3867dfc0d738f8f7adaea59a5fe9ccf27faff63b71b2fb83e958aebb8c19d418"
+    },
+    {
+      "file": "cakeRushFrames.js",
+      "bytes": 602,
+      "sha256": "b105ac29b83fe99c6703b0cd0add42ce20ffc9c6a03a35cab8056e412076647d"
+    },
+    {
+      "file": "cakeRushUi.js",
+      "bytes": 14584,
+      "sha256": "a778b97c5887d45dad07fce3b86bdb6b644cef143f0361402fa1f5b727f6448d"
+    },
+    {
+      "file": "characterMotion.js",
+      "bytes": 3754,
+      "sha256": "5871538f987335543e730b7cbaa7b74b6c584a07abffb09e1c5d8b2a905da497"
+    },
+    {
+      "file": "classroomCheckpoint.js",
+      "bytes": 6406,
+      "sha256": "7893c90c25b65e4dd791e0a5a22a2110ad7115aba15f02f5600ef43e268e80cf"
+    },
+    {
+      "file": "classroomUi.js",
+      "bytes": 174,
+      "sha256": "ae4f5feb6c69a8b2551dbe4e54fce1b11a48f5b01ab23c0b3121db689b541bd2"
+    },
+    {
+      "file": "config.js",
+      "bytes": 2574,
+      "sha256": "a94de167a4a9f2f2a480a5f48b85ab7678dd53a1ced283588b738b96b72bc771"
+    },
+    {
+      "file": "craft-games.css",
+      "bytes": 7692,
+      "sha256": "f6f105989653022e472b2ab2e992ec478ff25adeb42adf3d489dd706d56f7e7c"
+    },
+    {
+      "file": "craftGames.js",
+      "bytes": 8045,
+      "sha256": "707b0a78affb775918ff50032bb775ac2b63cab3c2db5c35c009071c32ccdd65"
+    },
+    {
+      "file": "craftUi.js",
+      "bytes": 14461,
+      "sha256": "4b8e809732bbdf169c6686e68ff8640b1fb0864ecb34fd7aa4cb2bf5b7096cee"
+    },
+    {
+      "file": "customerPools.js",
+      "bytes": 680,
+      "sha256": "2f78dd4669f3c70c0dbbdcfaaa4ecab04e1ab130745f09bf2d62952a1f8e9f43"
+    },
+    {
+      "file": "customerPoseCatalog.js",
+      "bytes": 7668,
+      "sha256": "74550f06381053e0f15d55f8036628afb4b8a2322e86db0368962183e27ec6d6"
+    },
+    {
+      "file": "customerPoses.js",
+      "bytes": 2721,
+      "sha256": "009eacc60c5bc477cd0f6dc8447ea46825353f1a22d4dabcb6710cf30e56bdda"
+    },
+    {
+      "file": "customerRules.js",
+      "bytes": 1680,
+      "sha256": "df44c0d79c6b699a1299dc64b7fb1d7f3c396c2263901ad00c411e7ad3854de1"
+    },
+    {
+      "file": "data.js",
+      "bytes": 7368,
+      "sha256": "494e0becdab59d8d836ef5791c661e872e947df9e98d607ea3279b0cb780d7e7"
+    },
+    {
+      "file": "departureDialogue.js",
+      "bytes": 8416,
+      "sha256": "eea19a9b235cc9cc4a5598b971f237981e27c1a32ccb2a8291170163b52288f2"
+    },
+    {
+      "file": "deploymentStorage.js",
+      "bytes": 1628,
+      "sha256": "9a60e8a632875fab89e5c2ccf5b17360a1ae38f477e74b48f93522e0b23f3f2f"
+    },
+    {
+      "file": "eventConfig.js",
+      "bytes": 3932,
+      "sha256": "575a98349af258e101b3ab65e682395785c19e56e3192a7ac233e7bca9c95d69"
+    },
+    {
+      "file": "eventPresentation.js",
+      "bytes": 600,
+      "sha256": "955d248ab6b8d78e287e5ae4d4eacd3d910fdb94f5aa930aba8c88efefc9392e"
+    },
+    {
+      "file": "eventRecovery.js",
+      "bytes": 4660,
+      "sha256": "3929d08674ffd72af0643a86b955968af6dee8b2a1ed6b40f64abbbbefaa9dc2"
+    },
+    {
+      "file": "eventUi.js",
+      "bytes": 4220,
+      "sha256": "4aad214c53f5e7a77efbbb8672d40480216a3cf5f6c0cd4fd88a642192aad341"
+    },
+    {
+      "file": "events.css",
+      "bytes": 10538,
+      "sha256": "2ea3652fed3b7cb8805631340ee6a615e06e75d1ba91985411588c6df42ba5e4"
+    },
+    {
+      "file": "feedback.css",
+      "bytes": 2507,
+      "sha256": "78f5ca112280840abb4de4808ee66d132c5090bcbe2103603c9fb35b5c91a130"
+    },
+    {
+      "file": "finalUx.js",
+      "bytes": 6855,
+      "sha256": "4c26fcbf9dc0883f82a31917d87370f42ef1591e774d48e130b2767613f4419e"
+    },
+    {
+      "file": "foodVisual.js",
+      "bytes": 380,
+      "sha256": "2444dfc9d66c6ecb2c91130a3720bee7fd058a389b805e071d3a6c86f4d362f0"
+    },
+    {
+      "file": "freeFurniture.js",
+      "bytes": 4788,
+      "sha256": "19aac779fada9a1ac00b0507e94453912193d16f677f84d74a146e027fa31b99"
+    },
+    {
+      "file": "freeLayout.js",
+      "bytes": 7596,
+      "sha256": "236c7cedbd32476d947675fa5e409ff06e7d97155be996c033749a726eb6c30e"
+    },
+    {
+      "file": "freeLayoutEditor.js",
+      "bytes": 23266,
+      "sha256": "cea7a600376069e52ee2672009555a66ab49e4db01773729a95439818aabe313"
+    },
+    {
+      "file": "freeLayoutModel.js",
+      "bytes": 6086,
+      "sha256": "88b18b07b6764c30806ecde225caaa26a1fe23833146a206a2fe5f9e9d79dbdf"
+    },
+    {
+      "file": "freeNavigation.js",
+      "bytes": 5495,
+      "sha256": "d60a98b210d89b0f3a8ad1a4de27ac0a766b4ded3c639f512891ae4494ca0396"
+    },
+    {
+      "file": "freePlacementChoices.js",
+      "bytes": 4013,
+      "sha256": "b5963e07bd625f3be8c85ad8dd4fc32df6449c4b789e3b1e32e7d4b41aa43447"
+    },
+    {
+      "file": "furnitureAnchors.js",
+      "bytes": 970,
+      "sha256": "56e34c50c340746a344c6b829084b044d516a13a0f9704fb04fdf31a2bb2a8b5"
+    },
+    {
+      "file": "furnitureCatalog.js",
+      "bytes": 3106,
+      "sha256": "683bca0be021874e98597ba877cfbd502fb37399600f90796f743028ecc1a464"
+    },
+    {
+      "file": "furnitureFrames.js",
+      "bytes": 2456,
+      "sha256": "bb4bbfcea13d9842a364087e5cb4c12258aad7d5214505a175042d723c484a1f"
+    },
+    {
+      "file": "furnitureSeating.js",
+      "bytes": 749,
+      "sha256": "dc7e05fa7793f7a8e73ae3a7cc8cc038cdc34633ca848cc43a2064543ab0bb4c"
+    },
+    {
+      "file": "furnitureUnlocks.js",
+      "bytes": 2040,
+      "sha256": "a71030dfd4c1cdeb8fc4a869784fa56dd41996cb5d1bd4fa68c214953f96522d"
+    },
+    {
+      "file": "game.js",
+      "bytes": 36600,
+      "sha256": "290a3cf196a560b770f5015a85852959e5c0d68e61f7e8126e6fdfe91ebbe6ba"
+    },
+    {
+      "file": "gameFeel.js",
+      "bytes": 12340,
+      "sha256": "66c5d26a560172fec3cfd0f36f981f30a90ab01657889615394c7dddcab0cdea"
+    },
+    {
+      "file": "growthBackup.js",
+      "bytes": 1295,
+      "sha256": "3123a74d520bd316a7090897d3df0265d0988ed7ad64073a81bf934724bec234"
+    },
+    {
+      "file": "growthBranch.js",
+      "bytes": 1510,
+      "sha256": "3abda3a5d79b815a315a949ae2e8d101aee775b6b3a7a36e66d7a46c0fa6480b"
+    },
+    {
+      "file": "growthBranchUi.js",
+      "bytes": 6159,
+      "sha256": "f1ba0abbc055655a4f7aad9adfb2aa73d5cd615ce195191a6ad659a1259d45eb"
+    },
+    {
+      "file": "growthCampaign.js",
+      "bytes": 10920,
+      "sha256": "366f6798f2d97a020c3adb28cc5301ee0bbc5d34a6d6e74218ca39aae4a88ea4"
+    },
+    {
+      "file": "growthEconomy.js",
+      "bytes": 3814,
+      "sha256": "c04c02c156cab4832dd25d633ac5e756bc6426c4885458a36f33a8c1e8cb2d4b"
+    },
+    {
+      "file": "growthEconomyConfig.js",
+      "bytes": 629,
+      "sha256": "2b99a2bc35af1b257c84de1fd459f49706c9847bbb2cd879fbff610003e82dfd"
+    },
+    {
+      "file": "growthRuntime.js",
+      "bytes": 7765,
+      "sha256": "1a0191f6c73cc1c3c084cbfca670102a2ae30eb6adf09beeb373e9bf5cc99bbc"
+    },
+    {
+      "file": "growthSave.js",
+      "bytes": 7533,
+      "sha256": "1fe8c986ebf3f7bec0f7fccc861e86a5d3bb5a9bc4432503bfd549964430ddc1"
+    },
+    {
+      "file": "growthSession.js",
+      "bytes": 4247,
+      "sha256": "504a81e379f033c48b9f9fa836261174536ac7119473883c7a05cbe7ccfcf9d5"
+    },
+    {
+      "file": "growthWriteLock.js",
+      "bytes": 1450,
+      "sha256": "e85e86c881c1a04a5a24ba8b9d71f259bf39609c1de5c9c33de40f2b33da75fe"
+    },
+    {
+      "file": "guestCheckpoint.js",
+      "bytes": 4811,
+      "sha256": "e725d490be3aafd14d3241802beee8c79bede532654f2c7c0b0eb927a642ffa4"
+    },
+    {
+      "file": "hospitality.js",
+      "bytes": 4168,
+      "sha256": "a1637dc4a1f7667f60468522dd3e832ad9d6948392e0e07368baf389c5395d9c"
+    },
+    {
+      "file": "hospitalityConfig.js",
+      "bytes": 3471,
+      "sha256": "d879bbee75abcea137389c95a9b772976077f3d8413b03e56edced651a02e012"
+    },
+    {
+      "file": "hospitalityPoseCatalog.js",
+      "bytes": 7309,
+      "sha256": "811a8dc8876b3e8f6f3abb0b04c79f7db5d2dba12344410513dd7f4ff84066a5"
+    },
+    {
+      "file": "imageLoading.js",
+      "bytes": 3702,
+      "sha256": "313f6e70d5bb16cecf498bab9253fc986e21616b55c44ed713bb6c21f3b1b597"
+    },
+    {
+      "file": "index.html",
+      "bytes": 1024,
+      "sha256": "ea7f8c844c770be0dcbe00c1dc08a4c62fdec0c847ca1915cc74fd356097d49e"
+    },
+    {
+      "file": "integrated.css",
+      "bytes": 35653,
+      "sha256": "40be9b97ecef964f5b809daccc6fa790699db0b5d7eb6bc827a1064d41d2fb70"
+    },
+    {
+      "file": "lakeDistrict.js",
+      "bytes": 8563,
+      "sha256": "48886ab055288c25fe18baa8da2f317f28b2c38cd6a371694f96621768689e63"
+    },
+    {
+      "file": "lakeDistrictConfig.js",
+      "bytes": 166,
+      "sha256": "8f01b7461aa49359a850525f579a774bc4625b1f7ad9336db3f825f8e42da68c"
+    },
+    {
+      "file": "lakeProjection.js",
+      "bytes": 777,
+      "sha256": "bd7cde2e9c05e2235f3af680a6c329a48d780318d0175419d18aaaf0a43bd071"
+    },
+    {
+      "file": "lakeUi.js",
+      "bytes": 15424,
+      "sha256": "7f76ca9d134fa13e502b0225188510570d0c23282d45b4c61b7de6738bb50eee"
+    },
+    {
+      "file": "layoutEconomyConfig.js",
+      "bytes": 178,
+      "sha256": "69d792a2658da3180c0d4705ce4cae9ea619cdc333adbb79ed29d08b944feaa9"
+    },
+    {
+      "file": "layoutEditor.js",
+      "bytes": 13054,
+      "sha256": "790ff3880c9b955c0a0dc5922e52328e8fd97518a8ace22062f299e1d6f7a1ff"
+    },
+    {
+      "file": "layoutModel.js",
+      "bytes": 3872,
+      "sha256": "5ac67ee43b043ef76be1598137e5233a3072b7c270af941f1c14dc02e0217f7e"
+    },
+    {
+      "file": "learning.css",
+      "bytes": 7548,
+      "sha256": "009596157c3ced8caefa748e61b24533a894f27392651f268550179f21a0c1bd"
+    },
+    {
+      "file": "learningAnalytics.js",
+      "bytes": 8492,
+      "sha256": "683ecd52ab6a0089be9ed009a2518d260c2538416bbb58790bc79b688a029b72"
+    },
+    {
+      "file": "learningIntegration.js",
+      "bytes": 1525,
+      "sha256": "560f931da56056de963096799bbf409c3ec8ba5f69845079e27ec09f5f60bbd1"
+    },
+    {
+      "file": "learningSession.js",
+      "bytes": 17654,
+      "sha256": "a1186892c24542af6a09e0844a347be5852e3a9d414a0d211925873d57eca4c7"
+    },
+    {
+      "file": "longGrowth.js",
+      "bytes": 8517,
+      "sha256": "a95e2eef05e5f9661bb839f76be47848c58e641452913c51f944a48976eab100"
+    },
+    {
+      "file": "longGrowthConfig.js",
+      "bytes": 3966,
+      "sha256": "73c30280e5a5de1f0101a70eb893c905bd767a7eb81b9e7025dc7183f8deb6f4"
+    },
+    {
+      "file": "longGrowthUi.js",
+      "bytes": 13616,
+      "sha256": "11b3f5835be80791d624cc283746e3a36c603038c891e8c38ffd10fff2fc6f07"
+    },
+    {
+      "file": "machineGame.js",
+      "bytes": 3512,
+      "sha256": "ce8eeced4f4554e6131580eb36a517834bb8499b705f87a3d8ddfbb5d134066c"
+    },
+    {
+      "file": "main.js",
+      "bytes": 73659,
+      "sha256": "7d62716cc8a6a78f34f7a9b91137225debaef4e4360ef5b28cd74c02e131ded2"
+    },
+    {
+      "file": "managementAlbum.js",
+      "bytes": 3008,
+      "sha256": "58c39618fa069233f3f9d6f598086508547ba53f4ea7a2fb53ac291f68d9ca78"
+    },
+    {
+      "file": "managementAlbumUi.js",
+      "bytes": 1788,
+      "sha256": "d3bbd44923650be9e579d69d21460a192753d2cdbe4ce5866dd34d950c73bf1f"
+    },
+    {
+      "file": "managementEngine.js",
+      "bytes": 7172,
+      "sha256": "13e103ca01f0d1365e53c14447f8493fcd1d108cc5904bc4600efb4eff93d627"
+    },
+    {
+      "file": "managementHub.js",
+      "bytes": 12462,
+      "sha256": "f8703fed911515f95b80bc76fa6d4783f44d4457c474e07167165f6da0870956"
+    },
+    {
+      "file": "managementLive.js",
+      "bytes": 5710,
+      "sha256": "b9a5721a44c678f4fd21ffc0ea4c3df465449ad2c41f071454bb81069c12f623"
+    },
+    {
+      "file": "managementResults.js",
+      "bytes": 1366,
+      "sha256": "a4c7ecf713fd4a90929c332f7d4ff4991a03dc6538a074a316299bda0332b3d6"
+    },
+    {
+      "file": "managementReview.js",
+      "bytes": 3732,
+      "sha256": "d0789d49a6971f46e2dedc76b81eb54a86b4f5468d62cc99e6b77c345e5543f9"
+    },
+    {
+      "file": "managementState.js",
+      "bytes": 5755,
+      "sha256": "f782772fa07518f468ffcf38c7e23714943ede90ae736735fffa19a6217dd763"
+    },
+    {
+      "file": "managementUi.js",
+      "bytes": 3606,
+      "sha256": "ca143d85dc509f4713108e7f4dcca25f711e1bcd6a5eb50831e8664717428367"
+    },
+    {
+      "file": "menuResearch.js",
+      "bytes": 5165,
+      "sha256": "ef7402f216367037976d2b29d8d5d29feef50040cae2af21c41b1b8c7f41c0cd"
+    },
+    {
+      "file": "mini-games.css",
+      "bytes": 5709,
+      "sha256": "41d14f3f91f006c16b418b7613e8d691efc27b4389261f104dd0f7c4c9a6e679"
+    },
+    {
+      "file": "miniArt.js",
+      "bytes": 1092,
+      "sha256": "1364fa48977d5a98b8eff53e308e0943e3be04f35811b85354e53f1eb113a720"
+    },
+    {
+      "file": "miniArtFrames.js",
+      "bytes": 601,
+      "sha256": "33a5dbb2892dfb5d3c9043e56533f9f3cd9ad85969842c75f616f428ef55f20c"
+    },
+    {
+      "file": "miniCake.js",
+      "bytes": 400,
+      "sha256": "495599499c0df1d81127add3b9fcf2c1ac79db3735d3703a14536501e03cb9aa"
+    },
+    {
+      "file": "miniFlowers.js",
+      "bytes": 330,
+      "sha256": "64463d48e0c8869c13a1227d31363fa5f4d87d232c4f95be72365c888a781f35"
+    },
+    {
+      "file": "miniGameConfig.js",
+      "bytes": 1906,
+      "sha256": "d473c6ef296e81d269909637bd4ad01b592dcf765d8ca0bf6fd3eb2774ee0b55"
+    },
+    {
+      "file": "miniGameUi.js",
+      "bytes": 16229,
+      "sha256": "4352b9d3943dd36f7cc3b7971ba13c46c2b3fd6a7b8ac665c59330f3ca70ca29"
+    },
+    {
+      "file": "miniGames.js",
+      "bytes": 17564,
+      "sha256": "1a1ef5a96ff5e9b5ffd42bdf8e81448682deaac4ff07db2c288b3f1615a99e72"
+    },
+    {
+      "file": "miniOven.js",
+      "bytes": 321,
+      "sha256": "51b81c3b4f694f6e54b5ce47aa736c342de5f547973f85582ec10c4a10a2e977"
+    },
+    {
+      "file": "modeBalance.js",
+      "bytes": 1754,
+      "sha256": "9c5a6fe142806c01b96484e0aec2af6fdf2f115f4d539c8b329f6042ac705dc5"
+    },
+    {
+      "file": "modeUi.js",
+      "bytes": 36439,
+      "sha256": "94eee2b73237fef8123ddf1f85846674965cc0962d266e8a6581b3a66c830b1a"
+    },
+    {
+      "file": "motionExpansionCatalog.js",
+      "bytes": 68648,
+      "sha256": "f2ca622abe6c08392d354fb67193aad5453de4cc7354ab584b9e2e6aa029bedb"
+    },
+    {
+      "file": "motionSprites.js",
+      "bytes": 4738,
+      "sha256": "37f73d6187915afdc0838b25f6e30b708db3600445c366f38959e4f0b9918019"
+    },
+    {
+      "file": "phase4Config.js",
+      "bytes": 3213,
+      "sha256": "63ae06956ba97b999756c8bf328a4267f02218b118f9943357e5828a365f33a3"
+    },
+    {
+      "file": "playLoop.js",
+      "bytes": 387,
+      "sha256": "b7f0bf3df21fcef9ba5d2d32f89fe8ccdc46dd66cc64fc35f511d1ebe09bb8dd"
+    },
+    {
+      "file": "presentation.js",
+      "bytes": 1884,
+      "sha256": "13bcc1599113137f3d6be4b4b71303b24b1778f7269eef3f4e39d839f479fba9"
+    },
+    {
+      "file": "problems.js",
+      "bytes": 2988,
+      "sha256": "b1ce3f3e6a99e84e35ede93ce8ebe76a4a1c5ee0e34f1656d092b11396daa738"
+    },
+    {
+      "file": "questionPack.js",
+      "bytes": 8557,
+      "sha256": "7fa883c06b8f2fdafa2af7ecd00bfba0ec6184ac77596476715737a0ee8b2cde"
+    },
+    {
+      "file": "questionRenderer.js",
+      "bytes": 1859,
+      "sha256": "b48ba521ab0596fe2c1cb73154ce504328b8e038a76adb9feb1f6bfa7227f16e"
+    },
+    {
+      "file": "reading.js",
+      "bytes": 2308,
+      "sha256": "40d0949c5d9d2304e5b7dc4df000f3def7a00af420ee0ccd15c6d2b9f52ad0e2"
+    },
+    {
+      "file": "recruitArt.js",
+      "bytes": 1585,
+      "sha256": "2e2e2993f08bf2df807ada3acb88886a67cc2a1926440e9ffe82cceaf8c3a461"
+    },
+    {
+      "file": "recruitConfig.js",
+      "bytes": 3511,
+      "sha256": "46d49c95d98486b1b99023294ba16a74c63f362814342ac0548fd2f344a20a85"
+    },
+    {
+      "file": "recruitUi.js",
+      "bytes": 12118,
+      "sha256": "ab967255504f516039916b173f2399331001c66f3e08a7fc7f2917a8b98cdafe"
+    },
+    {
+      "file": "saveRepository.js",
+      "bytes": 6706,
+      "sha256": "4129018ddd736552cc1ab5047f9665126159bf1c0d240cb63f763988da759a70"
+    },
+    {
+      "file": "sessionFactory.js",
+      "bytes": 2695,
+      "sha256": "69ae567f9fc2f5ab99ddcf7a2440337b2e092417297c9b54ba660da0309783e4"
+    },
+    {
+      "file": "sessionModes.js",
+      "bytes": 912,
+      "sha256": "a1a959ac3e2e02ab99026485f8e70d968d5f5b4f55a52b2fc4a7883af4d46c76"
+    },
+    {
+      "file": "sortGame.js",
+      "bytes": 3127,
+      "sha256": "8f000eda4368bbcbe9b3da84798cd3efed9cd6043135be4a8b6a9ea33aba33ee"
+    },
+    {
+      "file": "spatial.js",
+      "bytes": 20703,
+      "sha256": "d621e3c242b6d2353b07f81a45652de5a02cfb11bd57ae693ba6c80752757f64"
+    },
+    {
+      "file": "specialBusiness.js",
+      "bytes": 9820,
+      "sha256": "009e20e5a5ef05fa4096b094412992c08ed74206da21ec9993d1bfa6c7fdaa82"
+    },
+    {
+      "file": "specialInventory.js",
+      "bytes": 4606,
+      "sha256": "f014e5354464c8b780fde1746428a1d92a8e1e5e04f8bcbfd6d9acea92eef78a"
+    },
+    {
+      "file": "specialPoseCatalog.js",
+      "bytes": 3550,
+      "sha256": "f8b85bf74518a392d611bfb81e78eeae4562fbb2d7ed236c75a36a2b0d682d1a"
+    },
+    {
+      "file": "specialPreparationUi.js",
+      "bytes": 2025,
+      "sha256": "7a07dc533b9629531a4860362d5b46bcf5d08d121dba32f73000c95a3bdbffc2"
+    },
+    {
+      "file": "specialization.js",
+      "bytes": 2485,
+      "sha256": "250fde394c14b262848333bb4dcf7456fe5ea0b153c3e4450273203bc9532d09"
+    },
+    {
+      "file": "specializationConfig.js",
+      "bytes": 3947,
+      "sha256": "4f383de6700c0c63b936b5a33782b369ac63f300d1f66ba9cbbfa385dbf8ffcd"
+    },
+    {
+      "file": "specializationUi.js",
+      "bytes": 5619,
+      "sha256": "cf2f0e7cdeebd700393d715800781c57dcc5569235ddac1022a2fbee23efb54d"
+    },
+    {
+      "file": "staff.js",
+      "bytes": 10679,
+      "sha256": "b5a54900a6655610116bee5b1e6d46ef50d6f789b32972e728913a4eeb0d94fb"
+    },
+    {
+      "file": "staffAbilities.js",
+      "bytes": 8719,
+      "sha256": "ce143493c74790d61b5e9274652a0a36c70efa0a0bf979a20e5bc0c722d40801"
+    },
+    {
+      "file": "staffEducation.js",
+      "bytes": 1672,
+      "sha256": "13a1e3090ad2cb722cafd8b99a1ac6ad87b59342a86340317b274d269dfbaed0"
+    },
+    {
+      "file": "staffRecruitment.js",
+      "bytes": 8171,
+      "sha256": "539568c4c2ea8a79a74b04b557ebe0571e35ca5316efc9a970b7df87810c57a5"
+    },
+    {
+      "file": "studentNavigation.js",
+      "bytes": 3040,
+      "sha256": "018d7d9aebfcd964874985fbe88300e4054f1c2ebf47158fca55226270455cc6"
+    },
+    {
+      "file": "style.css",
+      "bytes": 33907,
+      "sha256": "7265c7a08b0232f524e8302b1eab6d66deaffc6ae068e49df294ee3feb0660e5"
+    },
+    {
+      "file": "telemetry.js",
+      "bytes": 1129,
+      "sha256": "fd9f924afd9134c92ffa4dd7b12c08d0591d5d2f7de4132a8c1ec6ff259fdefb"
+    },
+    {
+      "file": "trayGame.js",
+      "bytes": 6945,
+      "sha256": "b993ed2c12fe76b6b53d1e6c4f2bb8e1df92a603ff7db4361203f45da255bd76"
+    },
+    {
+      "file": "twinWorksheet.js",
+      "bytes": 10315,
+      "sha256": "dc377532d6c31376e23fd0a06bc8cb31e7fb79813a70268a87a02ca5935be48c"
+    },
+    {
+      "file": "typography.css",
+      "bytes": 3896,
+      "sha256": "10a5b221e173b13038398cb941a0fc11f9620247acfacd8c38aaf6e6bc5cf026"
+    },
+    {
+      "file": "uiIcons.js",
+      "bytes": 612,
+      "sha256": "8ada93ced8afd81d0678b8953d45b7fe671082d72fddfdd3c2c07ec552657cf9"
+    },
+    {
+      "file": "ux.css",
+      "bytes": 12933,
+      "sha256": "a9b925d52939143c083ab3c077897852cec631f1e9146d7e4c66c01a583659c6"
+    },
+    {
+      "file": "uxState.js",
+      "bytes": 3112,
+      "sha256": "847e2c70b43eb893a6d41fff9cc7bda6b422132e2106bec8c02a8b9946187c5a"
+    },
+    {
+      "file": "version.json",
+      "bytes": 392,
+      "sha256": "b0403ff0845c9fdc6a3b962ea89baf71e0b5e3728b4bbdc170c652696b0af2b4"
+    },
+    {
+      "file": "village-growth.css",
+      "bytes": 4298,
+      "sha256": "18122d3f81bcfa44a4c3fc90e8f5366eadc570b5f9cd4b01dd749fd65b8f4c39"
+    },
+    {
+      "file": "village-scene.css",
+      "bytes": 5117,
+      "sha256": "2c66fe656ecfd1f102a57abb2475bb6f56c357354b3b9ad8546b1edf16258d3e"
+    },
+    {
+      "file": "village-social.css",
+      "bytes": 8544,
+      "sha256": "bf585bcce9369ffb27e2f91b859886ee7eb35e92f75d3222b0a1c82fa13dfc56"
+    },
+    {
+      "file": "village.css",
+      "bytes": 14296,
+      "sha256": "0eb19b1fe992b6487ab7b215648197ffb927211fa56934dab1624b972c07d8fe"
+    },
+    {
+      "file": "village.js",
+      "bytes": 13594,
+      "sha256": "01aafd47436992ad0d67bd53eb39e5a5e60d3d9351558dc00eba304bf15e8c31"
+    },
+    {
+      "file": "villageDialogue.js",
+      "bytes": 4939,
+      "sha256": "c6ee818cd3d2164527f46c3bf42772a2644932eed55fada14560255d4841bc24"
+    },
+    {
+      "file": "villageExplorer.js",
+      "bytes": 9212,
+      "sha256": "1fe440774036276dac6d38ef90b68208b5a9aa5e5e431dec2064f46435c1c942"
+    },
+    {
+      "file": "villageGrowthUi.js",
+      "bytes": 8454,
+      "sha256": "26dd5db2193df4ae6a1ee5339f8f02862db1d04df33cd72c86da493296e83ee2"
+    },
+    {
+      "file": "villageGrowthVisual.js",
+      "bytes": 4719,
+      "sha256": "022541813b5d1583a17d325671ae411f9de1c8431eacd1b4232d3fb4b31e5612"
+    },
+    {
+      "file": "villageLife.js",
+      "bytes": 13772,
+      "sha256": "77a7d6870c611f693b3c91207a9dc16743fd046a898ae45e6e1fbba68ce66ad4"
+    },
+    {
+      "file": "villageNavigation.js",
+      "bytes": 13439,
+      "sha256": "8167389010a5b63d33a723c5515b6a93d83466412f8cb1f1a76ae3391ce89639"
+    },
+    {
+      "file": "villageProgression.js",
+      "bytes": 9217,
+      "sha256": "66a90f79281f46f40ed4f952e78e76ae7d88510749b146abea770fff4851cf1b"
+    },
+    {
+      "file": "villageSceneArt.js",
+      "bytes": 7470,
+      "sha256": "0725565407d9586d25d96784912213f53cf02bfc218325471a3da86780a1f19c"
+    },
+    {
+      "file": "villageSceneData.js",
+      "bytes": 10971,
+      "sha256": "4ba8e89604af40ef1c28eb9b635713886cfd697117042741c02818c374af1621"
+    },
+    {
+      "file": "villageSocial.js",
+      "bytes": 12215,
+      "sha256": "c4d81006630aa7515b173544412648835f77f50d85638fc8cd4dcd63d7ae649b"
+    },
+    {
+      "file": "villageUi.js",
+      "bytes": 25875,
+      "sha256": "272371a8505cb50d4f53a3c7003ce51ea88ae75cf9ff1cc376a33ae8546b1389"
+    },
+    {
+      "file": "webAsset.js",
+      "bytes": 171,
+      "sha256": "95a229708d67eb6c418da51e17f82fafd56a9d43a64597f7880bca85561367d0"
+    },
+    {
+      "file": "webAssetCatalog.js",
+      "bytes": 23488,
+      "sha256": "eef997c8d243ebaaec666a156794ae3a99e1414815971356cd1d66c02f44a5a9"
+    }
+  ],
+  "totalBytes": 55881279,
+  "qaFilesExcluded": true,
+  "testUrl": "https://limjiseung62-lgtm.github.io/Cafe-Learning-Tycoon-v25-RC4/"
+}

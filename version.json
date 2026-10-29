@@ -1,0 +1,11 @@
+{
+  "version": "2.5.0-rc.4",
+  "status": "student-test",
+  "publicDeploymentApproved": false,
+  "testDeploymentApproved": true,
+  "externalDeploymentExecuted": true,
+  "storagePrefix": "cafe-v25-rc4/",
+  "cacheToken": "2.5.0-rc.4-8b85134eaee7",
+  "sourceCandidate": "3e0af60cfc15b74148f880ac186890c8d87ccee4",
+  "testUrl": "https://limjiseung62-lgtm.github.io/Cafe-Learning-Tycoon-v25-RC4/"
+}
