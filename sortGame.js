@@ -1,4 +1,4 @@
-import { arcadeOpen, difficultyIndex, randomFor } from './arcadeTypes.js?v=2.5.0-rc.4-d6835d141692';
+import { arcadeOpen, difficultyIndex, randomFor } from './arcadeTypes.js?v=2.5.0-rc.4-4864a0edbbe3';
 export const sortFoods = ['커피', '딸기 케이크', '초콜릿 디저트', '쿠키'];
 export function sortOrder(seed, difficulty, id, now) { const r = randomFor(seed + id * 7919), d = difficultyIndex(difficulty), need = [0, 0, 0, 0], first = Math.floor(r() * (d ? 4 : 3)); need[first] = 1 + Math.floor(r() * (d === 2 ? 3 : 2)); if (d > 0 && r() > .25) {
     const second = (first + 1 + Math.floor(r() * 3)) % 4;

@@ -1,7 +1,7 @@
-import { growthEconomyConfig } from './growthEconomyConfig.js?v=2.5.0-rc.4-d6835d141692';
-import { longGrowthLevels } from './longGrowthConfig.js?v=2.5.0-rc.4-d6835d141692';
-import { balance, cafeLevels, warehouseLevels, staffBalance } from './config.js?v=2.5.0-rc.4-d6835d141692';
-import { phase4Balance } from './phase4Config.js?v=2.5.0-rc.4-d6835d141692';
+import { growthEconomyConfig } from './growthEconomyConfig.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { longGrowthLevels } from './longGrowthConfig.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { balance, cafeLevels, warehouseLevels, staffBalance } from './config.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { phase4Balance } from './phase4Config.js?v=2.5.0-rc.4-4864a0edbbe3';
 // CLASS_MATCH references the approved data without changing any values.
 export const classMatchBalance = { cafes: cafeLevels, warehouses: warehouseLevels, staff: staffBalance, menuMultipliers: balance.menuMultipliers, menuUpgradeMultipliers: balance.menuUpgradeCostMultipliers, special: phase4Balance, initial: { cafeLevel: 1, money: 0, warehouseLevel: 1 } };
 // Independent v1 growth costs. Shared capacity, art, menus and service mechanics.

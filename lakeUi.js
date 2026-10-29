@@ -1,15 +1,15 @@
-import { growthReaction } from './villageGrowthVisual.js?v=2.5.0-rc.4-d6835d141692';
-import { VillageSocial } from './villageSocial.js?v=2.5.0-rc.4-d6835d141692';
-import { VillageDialogue } from './villageDialogue.js?v=2.5.0-rc.4-d6835d141692';
-import { residentLine, lifeProfiles } from './villageLife.js?v=2.5.0-rc.4-d6835d141692';
-import { ensureGrowthWriteLock } from './growthWriteLock.js?v=2.5.0-rc.4-d6835d141692';
-import { ensurePortfolio, foundSecondCafe } from './cafePortfolio.js?v=2.5.0-rc.4-d6835d141692';
-import { lakeResidents, lakeSpots, lakeQuests, talkLake, visitLake, acceptLakeQuest, syncLake, lakeQuestReady, claimLakeQuest } from './lakeDistrict.js?v=2.5.0-rc.4-d6835d141692';
-import { escapeText as esc } from './questionRenderer.js?v=2.5.0-rc.4-d6835d141692';
-import { lakeScene } from './villageSceneData.js?v=2.5.0-rc.4-d6835d141692';
-import { restoreSceneLocation, sceneTarget } from './villageNavigation.js?v=2.5.0-rc.4-d6835d141692';
-import { sceneMarkup, ensureVillageSceneStyle, markSceneFounded } from './villageSceneArt.js?v=2.5.0-rc.4-d6835d141692';
-import { VillageExplorer } from './villageExplorer.js?v=2.5.0-rc.4-d6835d141692';
+import { growthReaction } from './villageGrowthVisual.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { VillageSocial } from './villageSocial.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { VillageDialogue } from './villageDialogue.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { residentLine, lifeProfiles } from './villageLife.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { ensureGrowthWriteLock } from './growthWriteLock.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { ensurePortfolio, foundSecondCafe } from './cafePortfolio.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { lakeResidents, lakeSpots, lakeQuests, talkLake, visitLake, acceptLakeQuest, syncLake, lakeQuestReady, claimLakeQuest } from './lakeDistrict.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { escapeText as esc } from './questionRenderer.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { lakeScene } from './villageSceneData.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { restoreSceneLocation, sceneTarget } from './villageNavigation.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { sceneMarkup, ensureVillageSceneStyle, markSceneFounded } from './villageSceneArt.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { VillageExplorer } from './villageExplorer.js?v=2.5.0-rc.4-4864a0edbbe3';
 let destroyLake;
 export async function openLake(repo, back, enterCafe) {
     destroyLake?.();

@@ -1,4 +1,4 @@
-import { balance } from './config.js?v=2.5.0-rc.4-d6835d141692';
+import { balance } from './config.js?v=2.5.0-rc.4-4864a0edbbe3';
 export const menuDefinitions = [
     { menuId: 'coffee', name: '아메리카노', unlockCafeLevel: 1, basePrice: 100, currentLevel: 1, maxLevel: 5, visualKey: 'coffee' },
     { menuId: 'cookie', name: '초코쿠키', unlockCafeLevel: 1, basePrice: 130, currentLevel: 1, maxLevel: 5, visualKey: 'cookie' },

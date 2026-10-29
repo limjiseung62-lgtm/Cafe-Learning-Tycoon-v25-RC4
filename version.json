@@ -5,7 +5,7 @@
   "testDeploymentApproved": true,
   "externalDeploymentExecuted": true,
   "storagePrefix": "cafe-v25-rc4/",
-  "cacheToken": "2.5.0-rc.4-d6835d141692",
-  "sourceCandidate": "959e8d6a2d8f2a137ac74f4094084cb42b2d5816",
+  "cacheToken": "2.5.0-rc.4-4864a0edbbe3",
+  "sourceCandidate": "628a7310fe8a9842b4c5a380eb3f06db61ecf35c",
   "testUrl": "https://limjiseung62-lgtm.github.io/Cafe-Learning-Tycoon-v25-RC4/"
 }

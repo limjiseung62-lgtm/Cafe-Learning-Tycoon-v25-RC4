@@ -1,4 +1,4 @@
-import { branchCatalog, branchPreview, canOfferBranch, isBranch } from './growthBranch.js?v=2.5.0-rc.4-d6835d141692';
+import { branchCatalog, branchPreview, canOfferBranch, isBranch } from './growthBranch.js?v=2.5.0-rc.4-4864a0edbbe3';
 const sessions = new WeakMap();
 let deferred = new WeakSet();
 // Presentation copy only. Branch IDs, eligibility and persistence remain unchanged.

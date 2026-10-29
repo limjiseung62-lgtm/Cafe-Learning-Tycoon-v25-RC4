@@ -1,12 +1,12 @@
-import { openFreeEditor } from './freeLayoutEditor.js?v=2.5.0-rc.4-d6835d141692';
-import { planFor, defaultPlan, validatePlan, commitPlan } from './cafeLayout.js?v=2.5.0-rc.4-d6835d141692';
-import { layoutFacilities, tableRect, decorRect } from './layoutModel.js?v=2.5.0-rc.4-d6835d141692';
-import { createSpace, floorPath, hallGrowthSpecs } from './spatial.js?v=2.5.0-rc.4-d6835d141692';
-import { branchRoom, branchCatalog } from './growthBranch.js?v=2.5.0-rc.4-d6835d141692';
-import { sprite } from './art.js?v=2.5.0-rc.4-d6835d141692';
-import { allDecorationCatalog as decorationCatalog } from './longGrowthConfig.js?v=2.5.0-rc.4-d6835d141692';
-import { escapeText as esc } from './questionRenderer.js?v=2.5.0-rc.4-d6835d141692';
-import { ensureGrowthWriteLock, supportsGrowthLock } from './growthWriteLock.js?v=2.5.0-rc.4-d6835d141692';
+import { openFreeEditor } from './freeLayoutEditor.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { planFor, defaultPlan, validatePlan, commitPlan } from './cafeLayout.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { layoutFacilities, tableRect, decorRect } from './layoutModel.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { createSpace, floorPath, hallGrowthSpecs } from './spatial.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { branchRoom, branchCatalog } from './growthBranch.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { sprite } from './art.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { allDecorationCatalog as decorationCatalog } from './longGrowthConfig.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { escapeText as esc } from './questionRenderer.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { ensureGrowthWriteLock, supportsGrowthLock } from './growthWriteLock.js?v=2.5.0-rc.4-4864a0edbbe3';
 export async function openLegacyLayoutEditor(repo, initial, onClose) {
     document.getElementById('layout-editor')?.remove();
     const dialog = document.createElement('section');

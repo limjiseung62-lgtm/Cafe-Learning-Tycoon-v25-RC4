@@ -1,5 +1,5 @@
-import { managementFor } from './managementState.js?v=2.5.0-rc.4-d6835d141692';
-import { recruitById } from './recruitConfig.js?v=2.5.0-rc.4-d6835d141692';
+import { managementFor } from './managementState.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { recruitById } from './recruitConfig.js?v=2.5.0-rc.4-4864a0edbbe3';
 export const educationThresholds = [5, 12, 22];
 export function educationLevel(g, id) { return g.mode === 'CAFE_GROWTH' ? g.management?.training[id]?.level ?? 0 : 0; }
 export function observeEducation(g, guestId) { const m = g.management, id = g.staffAbilities.run?.couriers[String(guestId)]; if (g.mode !== 'CAFE_GROWTH' || !m || !id || !g.service.paid.some(w => w.staffId === id))

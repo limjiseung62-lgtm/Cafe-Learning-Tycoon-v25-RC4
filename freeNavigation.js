@@ -1,4 +1,4 @@
-import { freeBody } from './freeLayoutModel.js?v=2.5.0-rc.4-d6835d141692';
+import { freeBody } from './freeLayoutModel.js?v=2.5.0-rc.4-4864a0edbbe3';
 const graphs = new WeakMap();
 export const freeRouteMetrics = { graphs: 0, searches: 0, connectivity: 0 };
 const distance = (a, b) => Math.hypot(a.x - b.x, (a.y - b.y) * 2 / 3);

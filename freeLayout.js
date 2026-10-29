@@ -1,11 +1,11 @@
-import { furnitureFor } from './furnitureCatalog.js?v=2.5.0-rc.4-d6835d141692';
-import { prepareFurniture, furnitureUnlocked } from './furnitureUnlocks.js?v=2.5.0-rc.4-d6835d141692';
-import { freeConnected } from './freeNavigation.js?v=2.5.0-rc.4-d6835d141692';
-import { createSpace } from './spatial.js?v=2.5.0-rc.4-d6835d141692';
-import { defaultFreePlan, freeKey, seatBudget, tableKinds, freeParts, freeFloor, freeFixed, wallDecor, freeDecorBox, convertLegacy } from './freeLayoutModel.js?v=2.5.0-rc.4-d6835d141692';
-import { overlap } from './layoutModel.js?v=2.5.0-rc.4-d6835d141692';
-import { cafeGrowthBalance } from './modeBalance.js?v=2.5.0-rc.4-d6835d141692';
-import { allDecorationCatalog as decorationCatalog } from './longGrowthConfig.js?v=2.5.0-rc.4-d6835d141692';
+import { furnitureFor } from './furnitureCatalog.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { prepareFurniture, furnitureUnlocked } from './furnitureUnlocks.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { freeConnected } from './freeNavigation.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { createSpace } from './spatial.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { defaultFreePlan, freeKey, seatBudget, tableKinds, freeParts, freeFloor, freeFixed, wallDecor, freeDecorBox, convertLegacy } from './freeLayoutModel.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { overlap } from './layoutModel.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { cafeGrowthBalance } from './modeBalance.js?v=2.5.0-rc.4-4864a0edbbe3';
+import { allDecorationCatalog as decorationCatalog } from './longGrowthConfig.js?v=2.5.0-rc.4-4864a0edbbe3';
 const memo = new Map();
 export const freeDiagnostics = { checks: 0, paths: 0, hits: 0 };
 export function basicFree(p) { try {
