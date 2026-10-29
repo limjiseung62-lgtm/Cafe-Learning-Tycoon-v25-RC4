@@ -1,10 +1,10 @@
-import { branchRoom } from './growthBranch.js?v=2.5.0-rc.4-8b85134eaee7';
-import { imageReady } from './imageLoading.js?v=2.5.0-rc.4-8b85134eaee7';
-import { specializationRoom } from './specializationConfig.js?v=2.5.0-rc.4-8b85134eaee7';
-import { webAsset } from './webAsset.js?v=2.5.0-rc.4-8b85134eaee7';
-import { branchCatalog } from './growthBranch.js?v=2.5.0-rc.4-8b85134eaee7';
-import { specializationById } from './specializationConfig.js?v=2.5.0-rc.4-8b85134eaee7';
-import { recruitById } from './recruitConfig.js?v=2.5.0-rc.4-8b85134eaee7';
+import { branchRoom } from './growthBranch.js?v=2.5.0-rc.4-d6835d141692';
+import { imageReady } from './imageLoading.js?v=2.5.0-rc.4-d6835d141692';
+import { specializationRoom } from './specializationConfig.js?v=2.5.0-rc.4-d6835d141692';
+import { webAsset } from './webAsset.js?v=2.5.0-rc.4-d6835d141692';
+import { branchCatalog } from './growthBranch.js?v=2.5.0-rc.4-d6835d141692';
+import { specializationById } from './specializationConfig.js?v=2.5.0-rc.4-d6835d141692';
+import { recruitById } from './recruitConfig.js?v=2.5.0-rc.4-d6835d141692';
 export function showcaseLines(g) { return [(g.specialization ? specializationById(g.specialization.selected)?.name : g.branchId ? branchCatalog.find(b => b.id === g.branchId)?.name : '나의 카페') + ' · Lv.' + g.cafeLevel, '성장 분기: ' + (branchCatalog.find(b => b.id === g.branchId)?.name ?? '첫 카페') + ' · 전문화: ' + (g.specialization ? specializationById(g.specialization.selected)?.name : '성장 중'), '근무 직원: ' + (g.service.paid.map(w => recruitById(w.staffId)?.name ?? '직원').join(' · ') || '사장님'), '인테리어는 실제 카페 화면에 배치한 모습이에요.', '특별 성취: 평판 ' + (g.management?.reputation.toFixed(1) ?? '기록 준비 중') + ' · 연구 메뉴 ' + Object.values(g.management?.research ?? {}).filter(x => x.stage === 'registered').length + '종']; }
 /** Snapshot only the rendered room; no student names, learning answers or browser chrome. */
 export async function cafeShowcasePng(room, lines) {

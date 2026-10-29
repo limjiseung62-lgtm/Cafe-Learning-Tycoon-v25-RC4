@@ -1,4 +1,4 @@
-import { townScene, lakeScene } from './villageSceneData.js?v=2.5.0-rc.4-8b85134eaee7';
+import { townScene, lakeScene } from './villageSceneData.js?v=2.5.0-rc.4-d6835d141692';
 export const sceneFor = (id) => id === 'town' ? townScene : lakeScene;
 export const navCell = 20, footRadius = 10;
 export const lakeShore = 'M235 305 C320 180 510 160 650 235 C735 280 830 240 915 320 C940 375 880 425 900 455 C945 500 970 590 900 690 C960 790 825 755 770 845 C710 940 540 925 390 850 C280 795 220 690 190 590 C160 485 150 400 235 305Z';

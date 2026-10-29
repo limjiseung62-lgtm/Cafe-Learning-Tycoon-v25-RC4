@@ -1,4 +1,4 @@
-import { specializationEvents } from './specializationConfig.js?v=2.5.0-rc.4-8b85134eaee7';
+import { specializationEvents } from './specializationConfig.js?v=2.5.0-rc.4-d6835d141692';
 export const eventBalance = { version: 1, firstAt: 30, lastMargin: 30, cashPerMinute: 8, missionBudgetShare: .8, missionWeightBase: 60, incidentWeightBase: 40, reservePerMission: 6, reservePerIncident: 1, giftLimit: 3, giftValueCap: 300, readingExtraSeconds: 45, maxReadingExtensions: 2, noticeSeconds: 4, warningSeconds: 10, arrivalGap: 1.2, maxQueuedArrivals: 6, promotionSeconds: 25, promotionSpawnFactor: .9, performanceActorLimit: 12 };
 export const eventFrequency = [{ seconds: 300, total: 4, urgent: 2 }, { seconds: 600, total: 7, urgent: 4 }, { seconds: 900, total: 10, urgent: 5 }, { seconds: 1200, total: 14, urgent: 7 }, { seconds: 1800, total: 19, urgent: 10 }, { seconds: 2400, total: 25, urgent: 13 }, { seconds: 3600, total: 36, urgent: 18 }];
 export const missionCatalog = [

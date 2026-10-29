@@ -1,4 +1,4 @@
-import { townScene } from './villageSceneData.js?v=2.5.0-rc.4-8b85134eaee7';
+import { townScene } from './villageSceneData.js?v=2.5.0-rc.4-d6835d141692';
 export const growthMilestones = [
     { stage: 1, title: '작은 마을', detail: '작은 광장과 이웃의 가게에서 첫 인사를 나눠요.', facility: '기본 주민 의뢰', reaction: '우리 마을에 온 걸 환영해!' },
     { stage: 2, title: '첫 광장 정비', detail: '분수 광장을 넓히고 꽃밭·벤치·가로등을 마련했어요.', facility: '광장 꽃 축제', reaction: '광장이 정말 예뻐졌어! 여기서 잠깐 쉬어 갈래?' },

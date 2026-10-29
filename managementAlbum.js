@@ -1,7 +1,7 @@
-import { growthAlbum } from './villageGrowthVisual.js?v=2.5.0-rc.4-8b85134eaee7';
-import { addCafeMemory } from './managementState.js?v=2.5.0-rc.4-8b85134eaee7';
-import { recruitById } from './recruitConfig.js?v=2.5.0-rc.4-8b85134eaee7';
-import { researchRecipes } from './menuResearch.js?v=2.5.0-rc.4-8b85134eaee7';
+import { growthAlbum } from './villageGrowthVisual.js?v=2.5.0-rc.4-d6835d141692';
+import { addCafeMemory } from './managementState.js?v=2.5.0-rc.4-d6835d141692';
+import { recruitById } from './recruitConfig.js?v=2.5.0-rc.4-d6835d141692';
+import { researchRecipes } from './menuResearch.js?v=2.5.0-rc.4-d6835d141692';
 export function syncManagementAlbum(save) { if (!save.management)
     return; const list = save.managementAlbum ??= [], cafeId = save.portfolio?.activeCafeId ?? 'cafe-1', m = save.management, at = save.updatedAt; const add = (id, kind, label, reward = '', level = save.cafeLevel) => addCafeMemory(list, { id: cafeId + ':' + id, kind, cafeId, label, at, level, reward }); add('founding', 'founding', cafeId === 'cafe-1' ? '나의 첫 카페' : '호숫가 2호점 창업', '', 1); for (const level of save.longTerm?.albums ?? [])
     add('level:' + level, 'founding', '카페 ' + level + '단계의 추억', '기존 성장 앨범에서 연결', level); if (save.growthBranch?.selected)

@@ -1,5 +1,5 @@
-import { safeDiagram } from './questionRenderer.js?v=2.5.0-rc.4-8b85134eaee7';
-import { readingErrors } from './reading.js?v=2.5.0-rc.4-8b85134eaee7';
+import { safeDiagram } from './questionRenderer.js?v=2.5.0-rc.4-d6835d141692';
+import { readingErrors } from './reading.js?v=2.5.0-rc.4-d6835d141692';
 export function normalizeAnswer(text) { return text.trim().normalize('NFKC').replace(/\s+/g, ' ').toUpperCase(); }
 export function validateQuestion(q) { const errors = []; if (!q || typeof q !== 'object' || ![q.questionId, q.sourceId, q.packId, q.skillId, q.prompt, q.question, q.answer, q.explanation].every(x => typeof x === 'string') || !Array.isArray(q.choices) || !q.choices.every(x => typeof x === 'string') || !Array.isArray(q.tags) || !q.tags.every(x => typeof x === 'string'))
     return ['schema']; if (!q.questionId || !q.sourceId || !q.packId || !q.skillId)

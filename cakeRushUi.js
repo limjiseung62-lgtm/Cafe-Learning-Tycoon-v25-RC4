@@ -1,7 +1,7 @@
-import { orderBase, rushMaxScore, editCake, selectRushOrder, submitCake, rushStats } from './cakeRush.js?v=2.5.0-rc.4-8b85134eaee7';
-import { imageReady } from './imageLoading.js?v=2.5.0-rc.4-8b85134eaee7';
-import { cakeRushFrames as atlas } from './cakeRushFrames.js?v=2.5.0-rc.4-8b85134eaee7';
-import { miniArt, refreshMiniArt } from './miniArt.js?v=2.5.0-rc.4-8b85134eaee7';
+import { orderBase, rushMaxScore, editCake, selectRushOrder, submitCake, rushStats } from './cakeRush.js?v=2.5.0-rc.4-d6835d141692';
+import { imageReady } from './imageLoading.js?v=2.5.0-rc.4-d6835d141692';
+import { cakeRushFrames as atlas } from './cakeRushFrames.js?v=2.5.0-rc.4-d6835d141692';
+import { miniArt, refreshMiniArt } from './miniArt.js?v=2.5.0-rc.4-d6835d141692';
 export const rushAtlas = 'assets/web/cake-rush/ingredients.webp';
 export const rushNames = { vanilla: '바닐라', strawberry: '딸기', cocoa: '초코', white: '생크림', pink: '딸기크림', chocolate: '초콜릿', blueberry: '블루베리', heart: '하트', star: '별' };
 const diffs = { easy: '쉬움', normal: '보통', challenge: '도전' };
